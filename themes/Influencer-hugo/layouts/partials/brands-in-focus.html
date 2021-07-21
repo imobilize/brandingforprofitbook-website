@@ -1,0 +1,105 @@
+
+<style>
+
+    .box {
+      display: flex;
+      width: 100%;
+      height: 8px;
+      margin: 5px 0px 60px 0px;
+    }
+    
+    .box-sm {
+      height: 8px;
+      margin: 0;
+      flex-grow: 1;
+      transition: all .8s ease-in-out;
+      cursor: pointer;
+    }
+    
+    // Growing the width of box, when hover using flex-grow property
+    .box-sm:hover {
+      flex-grow: 12;
+    }
+    
+    .red {
+      background-color: #FF5852;
+    }
+    
+    .orange {
+      background-color: #FF9000;
+    }
+    
+    .yellow {
+      background-color: #FFD300;
+    }
+    
+    .green {
+      background-color: #3DCD49;
+    }
+    
+    .blue {
+      background-color: #0089D7;
+    }
+    
+    .purple {
+      background-color: #9E44C4;
+    }
+    </style>
+    
+<section id="clients-logo-section" class="section-top pb-5" id="awards">
+  <div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <div class="box">
+                <div class="box-sm red"></div>
+                <div class="box-sm orange"></div>
+                <div class="box-sm yellow "></div>
+                <div class="box-sm green "></div>
+                <div class="box-sm blue "></div>
+                <div class="box-sm purple"></div>
+              </div>
+            
+        </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-lg-8">
+        <div class="section-heading text-center">
+          <h2 class="text-lg">{{ .title | markdownify }}</h2>
+          <p>In this series we focus on some of the most prominent brands in the world. Starting with the ruby jewel in the crown - Virgin.</p>
+        </div>
+      </div>
+    </div>
+    {{ range .brand }}
+
+    <div class="row">
+        <div class="col-md-2">
+
+        </div>
+      <div class="col-md-8 justify-content-center">
+        <div class="award-block text-center pb-4 mb-4">
+          <h3 class="mb-3"><a href="/virgin-by-design">{{ .title | markdownify }}</a></h3>
+          <a href="/virgin-by-design"><img src="{{ .image | relURL }}" alt="" class="img-fluid"></a>
+        </div>
+      </div>
+      <div class="col-md-2">
+            
+    </div>
+    </div>
+    {{ end }}
+    <div class="row">
+        <div class="col-md-12">
+            <div class="box">
+                <div class="box-sm blue "></div>
+
+                <div class="box-sm purple"></div>
+
+                <div class="box-sm red"></div>
+                <div class="box-sm orange"></div>
+                <div class="box-sm yellow "></div>
+                <div class="box-sm green "></div>
+              </div>
+            
+        </div>
+    </div>
+  </div>
+</section>

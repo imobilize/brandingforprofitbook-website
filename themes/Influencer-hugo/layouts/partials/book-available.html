@@ -1,0 +1,116 @@
+
+<style>
+    .available-block {
+    background: #fff;
+    text-align: center;
+    padding: 2rem;
+    border-radius: .5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0,0,0,.075);
+}
+
+.available-block .price {
+    font-size: 75px;
+    line-height: 75px;
+    padding: 14px 0 10px;
+}
+
+.available-block ul {
+    padding: 8px 0 0px;
+    max-width: 300px;
+    margin: 0 auto 30px;
+    list-style-type: none;
+    text-align: left;
+}
+
+.price span, .price em {
+    font-size: 30px;
+    line-height: 45px;
+    vertical-align: top;
+    font-style: normal;
+}
+</style>
+
+
+<div id="available" class="section bg-primary">
+    <div class="container">
+        <div class="row">
+
+
+            <div class="col text-center">
+                <h2 class="text-white display-4 pb-5">{{ .heading | markdownify }}</h2>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6  pt-3">
+                <div class="available-block">
+                    <h3 class="block-title text-center">Amazon</h3>
+                    <div class="author-profile"> 
+                        <img class="img-fluid rounded-circle border-light"
+                                    src="/images/about/buy_book_amazon.png"
+                                    alt="Branding For Profit Available On Amazon"></noscript></a>
+              
+                    </div>
+                    <div class="item_introtext">
+                        <div class="price">
+                <span>$</span>29<em>99</em>
+                </div>
+                <ul class="list">
+                <li class="inline"><span class="fa fa-check"></span> Paper Back</li>
+                <li class=""><span class="fa fa-check"></span> Kindle eBook</li>
+                </ul>
+                <div class="dropdown pt-5">
+                    <button class="btn btn-lg sale-btn btn-primary shadow dropdown-toggle" type="button"
+                        id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Order On Amazon Now
+                    </button>
+                    <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                        {{ range .locations }}
+                        <a class="dropdown-item" target="_blank" href="{{ .url }}">{{ .location }}</a>
+                        {{ end }}
+                    </div>
+                </div>
+                    </div>
+
+                </div>
+            </div>
+
+
+            <div class="col-lg-6  pt-3">
+                <div class="available-block">
+                    <h3 class="block-title text-center">Andre Barrett's Website</h3>
+                    <div class="author-profile"> 
+                        <img class="img-fluid rounded-circle border-light"
+                                    src="/images/about/andre-barrett-logo-website.png"
+                                    alt="Branding For Profit Available On Amazon"></noscript></a>
+              
+                    </div>
+                    <div class="item_introtext">
+                        <div class="price">
+                <span>$</span>17<em>00</em>
+                </div>
+                <ul class="list">
+                <li class=""><span class="fa fa-check"></span> eBook (ePub, MOBI, PDF)</li>
+                </ul>
+                <div>
+                    <p class="mt-0 text-danger"><b> Note: Cheaper than Amazon due to not having to pay 65% commision</b></p>
+                 </div>
+                <p><b>Plus get these free bonuses</b></p>
+                <ul class="list">
+                    <li class=""><span class="fa fa-check"></span> Branding Style Guide Template</li>
+                    <li class=""><span class="fa fa-check text-green"></span> Branding Persona Template</li>
+                    <li class=""><span class="fa fa-check"></span> On Demand Video Implementation Guide</li>
+                    </ul>
+                
+                        <a class="btn btn-lg sale-btn btn-primary shadow" target="_blank" href="https://www.andrebarrett.com/branding-for-profit-book-checkout">Order On andrebarrett.com</a>
+                </div>
+           
+                    </div>
+
+                </div>
+            </div>
+
+        </div>
+ 
+    </div>
+
+</div>

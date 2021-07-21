@@ -1,0 +1,419 @@
+########################## Banner #############################
+banner:
+  enable : true
+  writter : "Andre Barrett"
+  title : "BRANDING FOR PROFIT"
+  image : "images/about/branding-for-profit-book.png"
+  content : "How Companies Create Extraordinary Gains From Their Brands"
+  content2 : "And How You Can Too"
+
+  subheading : "READ THIS BOOK NOW TO START GAINING YOUR EDGE!"
+  prices:
+    - price : "USD $24.99"
+    - price : "GBP £19.27"
+    - price : "EUR 21,32 €"
+    - price : "CAD CDN$ 32.94"
+    - price : "BRL R$139,75"
+    - price : "MXN $536.76"
+    - price : "AUD $35.27"
+    - price : "INR ₹ 1,833.63"
+    - price : "JPY ￥2,629.92"
+
+########################## Promotion #############################
+available:
+  enable : true
+  writter : "Andre Barrett"
+  heading : "Branding For Profit Is Available In These Places"
+  title : "Exclusive Pre-Order Kindle version available on Amazon"
+  image : "images/about/branding-for-profit-book.png"
+  content : "For a limited time, you can get the Branding For Profit Book for less than half the price. This is a pre-order exclusive offer that ends soon."
+
+  locations:
+    - location : "Amazon.com"
+      url: "https://www.amazon.com/dp/B08L3P6S7H"
+      price : "USD $24.99"
+      discounted : "USD $9.99"
+
+    - location : "Amazon.co.uk"
+      url: "https://www.amazon.co.uk/dp/B08L3P6S7H"
+      price : "GBP £19.27"
+      discounted : "GBP £7.66"
+
+    - location : "Amazon.ca"
+      url: "https://www.amazon.ca/dp/B08L3P6S7H"
+      price : "CAD CDN$ 32.94"
+      discounted : "CAD CDN$ 9.99"
+
+    - location : "Amazon.com.au"
+      url: "https://www.amazon.com.au/dp/B08L3P6S7H"
+      price : "AUD $35.27"
+      discounted : "AUD $11.99"
+
+    - location : "Amazon.com.in"
+      url: "https://www.amazon.in/dp/B08L3P6S7H"
+      price : "INR ₹ 1,833.63"
+      discounted : "INR ₹ 449.00"
+
+    - location : "Amazon.de"
+      url: "https://www.amazon.de/dp/B08L3P6S7H"
+      price : "EUR 21,32 €"
+      discounted : "EUR 8,45 €"
+
+    - location : "Amazon.com.br"
+      url: "https://www.amazon.com.br/dp/B08L3P6S7H"
+      price : "BRL R$139,75"
+      discounted : "BRL R$24,99"
+
+    - location : "Amazon.com.mx"
+      url: "https://www.amazon.com.mx/dp/B08L3P6S7H"
+      price : "MXN $536.76"
+      discounted : "MXN $149.99"
+
+    - location : "Amazon.co.jp"
+      url: "https://www.amazon.co.jp/dp/B08L3P6S7H"
+      price : "JPY ￥2,629.92"
+      discounted : "JPY ￥1,055"
+
+
+######################## Book Preview ##########################
+preview:
+  enable : true
+  pagePreview:
+    # page preview loop
+    - image : "images/about/branding-for-profit-book-page1.png"
+    - image : "images/about/branding-for-profit-book-page2.png"
+    - image : "images/about/branding-for-profit-book-page3.png"
+
+  title : "Every Successful Well-known Brand Is Using These Mind-Blowing Tactics"
+  content : "
+Many people think that the brands we know and love have succeeded by delivering high-quality service and great products. Although this may be true, other powerful factors are at play and are the real driving force behind their success. These factors remain mysteriously unknown to the general public. They are like secret, magic tricks that have a potent effect on the unsuspecting customer. Yet big companies have been knowingly using these spellbinding tactics for many years. Employing these methods has allowed them to gain a large market share and command extraordinary profits. All while their competition fights over the scraps. If you want to create a brand that can thrive in this highly competitive market, it is time to arm yourself with these same weapons of influence.
+  "
+
+  inside:
+    # book inside item loop
+    # - insideItem : "7 Chapter"
+
+  # button
+  button:
+    enable : false
+    label : "Purchase on Amazon"
+    link : "#"
+
+
+########################## Service ##############################
+service:
+  enable : true
+  title: "Branding For Profit Book Covers:"
+  serviceItem:
+    # service item loop
+    - title : "Brand Fundamentals "
+      icon : "fas fa-rocket" # themify icon pack : https://themify.me/themify-icons
+      content : "Understand the basics required to create a stand out brand. Leverage the tactics of other well-known brands."
+      features:
+        - feature : "What exactly is a brand"
+        - feature : "Why is a brand important"
+        - feature : "What makes some brands better than others"
+        - feature : "What colors a brand should use"
+        - feature : "Step by step guide to brand development"
+        - feature : "The psychology behind effective branding"
+
+
+    # service item loop
+    - title : "Marketing Techniques"
+      icon : "fas fa-envelope-open-text" # themify icon pack : https://themify.me/themify-icons
+      content : "Example strategies used by big brands to dominate their industry. Use the same techniques to captivate and influence your audience."
+      features:
+        - feature : "Why marketing is so crucial for a brand"
+        - feature : "Marketing used by the best brands"
+        - feature : "Marketing stratagies for smaller brands"
+        - feature : "How to use marketing to grow brand awareness"
+        - feature : "Great marketing for strong brand reputation"
+        - feature : "How to leverage social media for branding"
+        - feature : "Marketing that influences customers to buy"
+
+
+    # service item loop
+    - title : "Branding How-To"
+      icon : "fas fa-bullhorn" # themify icon pack : https://themify.me/themify-icons
+      content : "A step by step guide to create a successful brand from scratch. On on a tight budget? These steps are inexpensive yet powerful"
+      features:
+        - feature : "How to build a brand from scratch"
+        - feature : "How to avoid common branding mistakes"
+        - feature : "How to generate ideas for a brand name"
+        - feature : "How to create your logo"
+        - feature : "Tools to design your brand"
+        - feature : "How to use story to enhance your brand"
+        - feature : "How to grow your brand"
+        - feature : "How to protect your brand"
+        - feature : "How to create your brand on a budget"
+
+
+
+######################### Quote #############################
+quote:
+  enable : true
+  quote: "It's simply the best guide to branding for early stage entrepreneurs."
+  quoteBy: "Lisa Duffin"
+
+
+######################### Chapters ##########################
+chapters:
+  enable : true
+  title : "Full Chapter Overview"
+  subtitle : "The fundamental building blocks of a great brand exposed."
+  chapter:
+    # chapter preview loop
+    - title : "Chapter 1"
+      subhead : "Why Some Brands Drive Greater Profits Than Others."
+      content : "Ever wanted to know why some brands out perform others? The main reason is revealed in this chapter."
+
+    # chapter preview loop
+    - title : "Chapter 2"
+      subhead : "Motivational forces that cause people to buy from brands."
+      content : "There are forces at play that brands tap into to influence your buying decisions. Find out what they are here."
+      
+    # chapter preview loop
+    - title : "Chapter 3"
+      subhead : "Your Brand And Marketing."
+      content : "Learn the importance of marketing and marketing fundamentals needed to brand correctly."
+      
+    # chapter preview loop
+    - title : "Chapter 4"
+      subhead : "Secrets Of A Good Brand."
+      content : "The hidden gems that brands use to blow away their competition. Revealed here in this chapter."
+      
+    # chapter preview loop
+    - title : "Chapter 5"
+      subhead : "Techniques For Extraordinary Branding."
+      content : "Taking advantage of these methods have allowed brands to create huge gains. Find out what they are and use them for yourself."
+      
+    # chapter preview loop
+    - title : "Chapter 6"
+      subhead : "Naming Your Brand For Maximum Impact."
+      content : "By learning these strategies you will avoid the commom mistakes made when creating a brand."
+
+    # chapter preview loop
+    - title : "Chapter 7"
+      subhead : "How To Create The Low Cost High Profit Brand."
+      content : "On a budget? This chapter gives you a step by step guide to create a low cost brand that still has a powerful impact."
+
+
+########################## Revews ###########################
+reviews:
+  enable : false
+  title : "What people are saying"
+  subtitle : "Amazing reviews illo tenetur laboriosam excepturi velit in, temporibus ab rem dicta sint obcaecati!"
+  review:
+    # review item loop
+    - name : "Barrow Hasi"
+      image : "images/client/test-1.jpg" # image size 80*80 px
+      designation : "Sunrise ten"
+      rating : "five" # rating from one to five
+      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+      
+    # review item loop
+    - name : "Nilam Arthur"
+      image : "images/client/test-2.jpg" # image size 80*80 px
+      designation : "Sunrise ten"
+      rating : "four" # rating from one to five
+      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+      
+    # review item loop
+    - name : "Barrow Hasi"
+      image : "images/client/test-1.jpg" # image size 80*80 px
+      designation : "Sunrise ten"
+      rating : "five" # rating from one to five
+      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+      
+    # review item loop
+    - name : "Nilam Arthur"
+      image : "images/client/test-2.jpg" # image size 80*80 px
+      designation : "Sunrise ten"
+      rating : "four" # rating from one to five
+      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+
+
+#################################### device ################################
+devices:
+  enable : false
+  title : "Read it on your favorite device!"
+  content : "The Branding For Profit Book is also available as an ebook. Take it with you on your preferred device."
+  image : "images/about/ipad.jpg"
+  feature:
+    # feature item loop
+    - title : "Available on Amazon Kindle devices. Also on Android phones and tablets"
+      icon : "ti-bar-chart" # themify icon pack : https://themify.me/themify-icons
+      content : "Sed laborum omnis earum facere culpa optio natus quaerat minus."
+      
+    # feature item loop
+    - title : "Available on Apple iBook for iPhones and iPad"
+      icon : "ti-write" # themify icon pack : https://themify.me/themify-icons
+      content : "Sed laborum omnis earum facere culpa optio natus quaerat minus."
+
+
+  # button
+  button:
+    enable : true
+    label : "Purchase on amazon"
+    link : "#"
+
+
+#################################### target audience ################################
+audience:
+  enable : true
+  title : "Why a book on branding?"
+  content : "This book is for Entrepreneurs, Professionals, Marketing managers, Startups, Small Businesses and anyone else who wants to grow their business exponentially"
+  image : "images/about/ipad.jpg"
+  feature:
+    # feature item loop
+    - title : "Tricks you have never heard of"
+      icon : "ti-bar-chart" 
+      content : "They don't teach this stuff in schools. Usually trial and error teaches you what works best. It doesn't have to be your error, however."
+      
+    # feature item loop
+    - title : "Proven Strategies that deliver results"
+      icon : "ti-write" 
+      content : "It is working for the well-known brands and it's working for successful startups. Do you want to be left out?"
+
+         # feature item loop
+    - title : "Rapidly execute ideas"
+      icon : "ti-write" 
+      content : "A quick and easy blueprint to create an outstanding brand. All the details inside."
+
+
+  # button
+  button:
+    enable : true
+    label : "READ A SAMPLE HERE"
+    link : "/branding-for-profit-book-introduction"
+
+    ################################ Brands #####################################
+brands:
+  enable : true
+  title : "Successful Brands In Focus"
+  brand:
+    # brand item loop
+    - title : "Virgin By Design"
+      image : "images/blog/virgin-ux-by-design.png"
+      link : "/virgin-by-design"
+
+
+
+
+######################################## author #############################
+author:
+  enable : true
+  image : "images/about/andre-barrett-author.jpg"
+  name : "About The Author Andre Barrett"
+  designation : "Software Startup Coach, Entrepreneur, Investor"
+  content : "
+Are you tired of not being heard? Are you fed up with your ideas being discarded as if not useful? Do you feel annoyed that your true potential is never seen and that people just don’t take you seriously? These are the signs of an early-stage entrepreneur. A select few people feel this way, and it’s entirely normal for someone who is gifted. The problem is what to do about it?
+<br>
+<br>
+Like many other entrepreneurs, Andre heard his calling. He wanted to make a difference in the world. He wanted to impact lives. The issue was, at the time he initially felt like this, he simply wasn’t prepared. School had not taught him how to separate a good idea from a bad one. At university, his talent for problem-solving wasn’t nurtured. And throughout his professional career as a Software Engineer, no one had shown him how to take his amazing development skills, passion, and sense of purpose and turn it into something that could touch people’s hearts.
+<br>
+<br>
+Instead, his failures taught him how. His commitment to succeed despite any setback gave him the preparation needed to be a great entrepreneur. Along the way, he found brilliant mentors and business coaches to guide him. He read countless books on marketing, finance, investing, mindset, and entrepreneurship. The golden nuggets of wisdom picked up along his journey have allowed him to live the life he truly wanted, running many successful business enterprises in property, fitness, software development, health care, and business coaching. All of this he manages from his home in London, England.
+<br>
+<br>
+As an entrepreneur, investor, and business coach, Andre has mastered the principles required to create success for himself and whoever else desires it. A true entrepreneur knows the call. If this is you, the only thing left is to recognize what you need to break through to the life you are designed for. Find the what, the who, and the how that will make you succeed, then stop at nothing while you push forward to fulfilling your true potential.
+<br>
+<br>
+"
+
+  # signature
+  signature : "/images/about/signiture.png"
+  btn1Text : "Visit Author Amazon Page"
+  btn1Link : "https://www.amazon.com/Andre-Barrett/e/B08L3TYGN9"
+
+  btn2Text : "Visit Author Website"
+  btn2Link : "https://www.andrebarrett.com"
+
+
+################################ Awards #####################################
+awards:
+  enable : false
+  title : "We are award winner best selling book among the top rated 10 books!"
+  award:
+    # award item loop
+    - title : "International award"
+      image : "images/about/award-1.png"
+      
+    # award item loop
+    - title : "Meritorious award"
+      image : "images/about/award-2.png"
+      
+    # award item loop
+    - title : "Best book award"
+      image : "images/about/award-3.png"
+      
+    # award item loop
+    - title : "Excellence award"
+      image : "images/about/award-4.png"
+
+
+############################# Other books ###############################
+otherBooks:
+  enable : true
+  title : "Others books recommended by the author"
+  subtitle : "These are some business books highly recommended by the author. Their content inspired Andre to write Branding For Profit."
+  book:
+    # books loop
+    - image : "images/about/influence-book-robert-cialdini.jpg"
+      link : "https://amzn.to/3liUvua"
+      
+    # books loop
+    - image : "images/about/purple-cow-book-seth-godin.jpg"
+      link : "https://amzn.to/2StiJWp"
+      
+    # books loop
+    - image : "images/about/pitch-anything-book-oren-klaff.jpg"
+      link : "https://amzn.to/2GCOolI"
+      
+    # books loop
+    - image : "images/about/finding-my-virginity-book-richard-branson.jpg"
+      link : "https://amzn.to/2HVtUVH"
+
+################################ Blog ###################################
+blog:
+  enable : true
+  title : "Insights and articles"
+  subtitle : "Read these articles by the author to get more of an insight into branding, why it's so imporant for a business and topics for consideration."
+  # blog post comes from 'content/blog'
+
+################################# Contact ##############################
+contact:
+  enable : false
+  title : "Contact Us"
+  subtitle : "Whether you have questions or you would just like to say hello, contact us.Lorem ipsum dolor sit amet, consectetur adipisicing elit. Provident, atque!"
+  contactItem:
+    # contact Item loop
+    - title : "Contact Quickly"
+      icon : "ti-headphone-alt" # themify icon pack : https://themify.me/themify-icons
+      list:
+        - listItem : "+23-68017684"
+        
+    # contact Item loop
+    - title : "Email"
+      icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
+      list:
+        - listItem : "startor@support.com"
+        
+    # contact Item loop
+    - title : "Location"
+      icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
+      list:
+        - listItem : "397 Lake forest drive street USA"
+
+        ################################# Free Resources ##############################
+resources:
+  enable : true
+  title : "Free Resources For Branding"
+  subtitle : "If you have read the book and you would like access to the free resources available, fill in your email address and they will be sent to you."
+  contactItem:
+    # contact Item loop
+    - title : "Email"
+      icon : "ti-email" # themify icon pack : https://themify.me/themify-icons
+      list:
+        - listItem : "startor@support.com"
+        

@@ -1,0 +1,134 @@
+
+/*----------------------
+ BANNER STYLE
+-----------------------*/
+
+.py-7 {
+    padding: 7.5rem 0;
+}
+
+.pt-7 {
+    padding: 7.5rem 0 0 0;
+}
+
+
+/*-------------------------
+ HOME -2 
+-----------------------------*/
+.banner-main{
+    position: relative;
+
+    &:before{
+    	position: absolute;
+    	content: "";
+    	left: 0px;
+    	top:0px;
+    	width: 100%;
+        background:#F4F7FC;
+    	height: 80%;
+
+    }
+}
+
+
+h1{
+    font-size: 60px;
+    line-height: 70px;
+    color: #263b5e;
+    font-weight: 600;
+}
+
+.main-banner {
+    padding: 80px 0px 150px;
+
+    p{
+    	padding-right: 100px;
+    }
+}
+
+
+// Responsive
+
+
+@include mobile{
+    h1 {
+        font-size: 45px;
+        line-height: 55px;
+    }
+}
+@include mobile-xs{
+    h1 {
+        font-size: 36px;
+        line-height: 46px
+    }
+}
+
+
+// @include tablet{
+//     h1 {
+//         font-size: 45px;
+//         line-height: 55px;
+//     }
+// }
+
+
+#promotion.section {
+    background: linear-gradient(45deg, rgb(36, 55, 161) 0%, rgb(75, 102, 179) 100%);
+}
+
+.text-promotion-headline {
+    color: #ff0000;
+}
+
+
+.btn-sale {
+	font-family: 'Montserrat', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial,
+		sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+	font-weight: 700;
+}
+
+.btn-xl {
+	font-size: 18px;
+	padding: 20px 40px;
+}
+
+.btn-primary {
+	background-color: #fed136;
+	border-color: #fed136;
+	color: #222222;
+}
+
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:hover {
+	background-color: #fec810 !important;
+	border-color: #fec810 !important;
+	color: white;
+}
+
+.btn-primary:active,
+.btn-primary:focus {
+	box-shadow: 0 0 0 0.2rem rgba(254, 209, 55, 0.5) !important;
+}
+
+.sale-btn {
+	border: 1px solid rgba(0,0,0,0.2);
+	box-shadow: inset 0 1px 0 rgba(255,255,255,0.2);
+}
+
+.tatsu-single-image img {
+    position: static;
+    max-width: 100%;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+.tatsu-single-image-inner {
+    width: 140%;
+    display: block;
+    max-width: none;
+    position: relative;
+}

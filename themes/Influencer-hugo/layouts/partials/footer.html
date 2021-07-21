@@ -1,0 +1,57 @@
+<footer class="footer">
+  <div class="container">
+    <div class="row justify-content-between align-items-center">
+      <div class="col-md-8 col-sm-12">
+        <div class="footer-widget">
+          <a class="mb-4 d-inline-block" href="{{ .Site.BaseURL }}">
+            {{ if .Site.Params.logo }}
+            <img src="{{ .Site.Params.logo | relURL }}" alt="{{ .Site.Title }}">
+            {{ else }}
+            <h2 class="mb-0 text-dark">{{ .Site.Title }}</h2>
+            {{ end }}
+          </a>
+          <p class="mb-4">{{ .Site.Params.footer.content | markdownify }}</p>
+          <a href="{{ .Site.Params.footer.link }}" class="btn btn-primary shadow mb-5">{{ .Site.Params.footer.btnText | markdownify }}</a>
+
+        </div>
+      </div>
+
+      <div class="col-md-4">
+        <a href="{{ .Site.Params.footer.link }}">
+          <img src="/images/about/branding-for-profit-book-small.png" alt="Branding For Profit Book small image" class="img-fluid">
+        </a>
+      </div>
+    </div>
+  </div>
+
+  <div class="container">
+    <div class="row footer-btm mt-5 pt-4 border-top">
+      <div class="col-lg-6">
+        <!-- Copyright -->
+        <p class="footer-copy">
+          {{ .Site.Params.copyright | markdownify }}
+        </p>
+      </div>
+      <div class="col-lg-6">
+        <div class="footer-btm-menu">
+            <div><a href="https://www.facebook.com/andrebarretttv" data-kmt="1"><i class="fab fa-facebook-f"></i> Facebook</a></div>
+            <div><a href="https://www.twitter.com/andrebarretttv" data-kmt="1"><i class="fab fa-twitter"></i> Twitter</a></div>
+            <div><a href="https://www.youtube.com/andrebarretttv" data-kmt="1"><i class="fab fa-youtube"></i> Youtube</a></div>
+            <div><a href="https://www.linkedin.com/in/andrebarretttv" data-kmt="1"><i class="fab fa-linkedin-in"></i> LinkedIn</a></div>
+
+          <!-- <img src="{{`images/about/cards-3.png` | relURL }}" alt="" class="img-fluid"> -->
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+{{ "<!-- JS Plugins -->" | safeHTML }}
+{{ range .Site.Params.plugins.js}}
+<script src="{{ .URL | relURL }}"></script>
+{{ end }}
+
+
+{{ "<!-- Main Script -->" | safeHTML }}
+{{ $script := resources.Get "js/script.js" | minify}}
+<script src="{{ $script.RelPermalink }}"></script>

@@ -1,0 +1,213 @@
+<section class="section" id="audience">
+    <div class="tatsu-section-pad clearfix">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6" data-animation="fadeIn" data-parallax-speed="0" style="">
+                <div class="tatsu-column-inner ">
+                    <div class="tatsu-column-pad-wrap">
+                        <div class="tatsu-column-pad">
+                            <div class="tatsu-module tatsu-inline-text clearfix tatsu-ryWbfUZL4   "
+                                data-animation="fadeIn">
+                                
+                                <div class="mb-5">
+                                    <h3 class="text-md">{{ .title | markdownify }}</h3>
+                                    <p class="mt-3"><span>{{ .content | markdownify }}</span></p>
+                                </div>
+                            </div>
+                            <ol
+                                class="tatsu-module tatsu-list tatsu-g0iwfdy22c46cwbf    tatsu-lists-number tatsu-lists-timeline tatsu-lists-circled">
+                                <style>
+                                    .tatsu-g0iwfdy22c46cwbf {
+                                        margin: 0px 0px 40px 0px;
+                                    }
+
+                                    .tatsu-g0iwfdy22c46cwbf .tatsu-lists-timeline-element {
+                                        background: rgba(0, 0, 0, 0.08);
+                                    }
+
+                                    .tatsu-g0iwfdy22c46cwbf .tatsu-list-content {
+                                        margin: 0 0 40px 0px;
+                                    }
+
+                                    .tatsu-g0iwfdy22c46cwbf .tatsu-list-content::before,
+                                    .tatsu-g0iwfdy22c46cwbf .tatsu-list-icon-wrap {
+                                        background: rgba(30, 106, 224, 1);
+                                    }
+
+                                    .tatsu-g0iwfdy22c46cwbf .tatsu-list-content::before,
+                                    .tatsu-g0iwfdy22c46cwbf .tatsu-icon {
+                                        color: #ffffff;
+                                    }
+                                </style>
+
+
+                                {{ range .feature }}
+                                <li class="tatsu-list-content tatsu-g0iwfdy3gs8wynqu   ">
+                                        <h6>{{ .title | markdownify }}</h6>
+                                        <p>{{ .content | markdownify }}</p>
+                                    <style>
+                                        .tatsu-g0iwfdy3gs8wynqu {
+                                            border-style: {
+                                                "d": "solid", "l":"solid", "t":"solid", "m":"solid"
+                                            }
+
+                                            ;
+                                        }
+                                    </style>
+                                </li>
+                                {{ end }}
+
+                            </ol>
+                            {{ if .button.enable }}
+                            {{ with .button }}
+                            <div class="tatsu-module tatsu-normal-button tatsu-button-wrap   tatsu-Sy8DPIb8N   ">
+                                <a href="{{ .link | safeURL }}" class="btn btn-main">{{ .label }}<i class="ti-angle-right ml-3"></i></a>
+                                
+                            </div>
+                            {{ end }}
+                            {{ end }}
+                        </div>
+                    </div>
+                    <div class="tatsu-column-bg-image-wrap">
+                        <div class="tatsu-column-bg-image tatsu-bg-lazyload" data-src=""></div>
+                    </div>
+                </div>
+                <style>
+                    .tatsu-row>.tatsu-HJxNzJNZUE.tatsu-column {
+                        width: 50%;
+                    }
+
+                    .tatsu-HJxNzJNZUE.tatsu-column>.tatsu-column-inner>.tatsu-column-overlay {
+                        mix-blend-mode: none;
+                    }
+
+                    .tatsu-HJxNzJNZUE>.tatsu-column-inner>.tatsu-top-divider {
+                        z-index: 9999;
+                    }
+
+                    .tatsu-HJxNzJNZUE>.tatsu-column-inner>.tatsu-bottom-divider {
+                        z-index: 9999;
+                    }
+
+                    .tatsu-HJxNzJNZUE>.tatsu-column-inner>.tatsu-left-divider {
+                        z-index: 9999;
+                    }
+
+                    .tatsu-HJxNzJNZUE>.tatsu-column-inner>.tatsu-right-divider {
+                        z-index: 9999;
+                    }
+
+                    .tatsu-HJxNzJNZUE.tatsu-column {
+                        transform: translate3d(0px, 0px, 0);
+                    }
+
+                    @media only screen and (max-width:1377px) {
+                        .tatsu-row>.tatsu-HJxNzJNZUE.tatsu-column {
+                            width: 50%;
+                        }
+                    }
+
+                    @media only screen and (min-width:768px) and (max-width: 1024px) {
+                        .tatsu-row>.tatsu-HJxNzJNZUE.tatsu-column {
+                            width: 50%;
+                        }
+                    }
+
+                    @media only screen and (max-width: 767px) {
+                        .tatsu-row>.tatsu-HJxNzJNZUE.tatsu-column {
+                            width: 100%;
+                        }
+                    }
+                </style>
+            </div>
+            <div class="col-md-6 d-none">
+                <div class="tatsu-column-inner">
+                    <div class="tatsu-column-pad-wrap">
+                        <div class="tatsu-column-pad">
+                            <div class="tatsu-single-image tatsu-module align-left tatsu-image-overflow  tatsu-external-image tatsu-Hk4p5BZ84  "
+                                data-animation="fadeIn">
+                                <div class="tatsu-single-image-inner " style="">
+                                    <div class="tatsu-single-image-padding-wrap" style=""></div>
+                                    <img
+                                        class="tatsu-gradient-border d-sm-none d-sm-block" alt=""
+                                        src="/images/about/undraw_visual_data_b1wx.svg">
+                                </div>
+                                <style>
+                                    .tatsu-Hk4p5BZ84 .tatsu-single-image-inner {
+                                        width: 140%;
+                                    }
+
+                                    .tatsu-Hk4p5BZ84.tatsu-single-image {
+                                        transform: translate3d(0px, 0px, 0);
+                                    }
+
+                                    @media only screen and (min-width:768px) and (max-width: 1024px) {
+                                        .tatsu-Hk4p5BZ84 .tatsu-single-image-inner {
+                                            width: 100%;
+                                        }
+                                    }
+                                </style>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tatsu-column-bg-image-wrap">
+                        <div class="tatsu-column-bg-image tatsu-bg-lazyload" data-src=""></div>
+                    </div>
+                </div>
+                <style>
+                    .tatsu-row>.tatsu-SyVMkNWLE.tatsu-column {
+                        width: 50%;
+                    }
+
+                    .tatsu-SyVMkNWLE.tatsu-column>.tatsu-column-inner>.tatsu-column-overlay {
+                        mix-blend-mode: none;
+                    }
+
+                    .tatsu-SyVMkNWLE>.tatsu-column-inner>.tatsu-top-divider {
+                        z-index: 9999;
+                    }
+
+                    .tatsu-SyVMkNWLE>.tatsu-column-inner>.tatsu-bottom-divider {
+                        z-index: 9999;
+                    }
+
+                    .tatsu-SyVMkNWLE>.tatsu-column-inner>.tatsu-left-divider {
+                        z-index: 9999;
+                    }
+
+                    .tatsu-SyVMkNWLE>.tatsu-column-inner>.tatsu-right-divider {
+                        z-index: 9999;
+                    }
+
+                    .tatsu-SyVMkNWLE.tatsu-column {
+                        transform: translate3d(0px, 0px, 0);
+                    }
+
+                    @media only screen and (max-width:1377px) {
+                        .tatsu-row>.tatsu-SyVMkNWLE.tatsu-column {
+                            width: 50%;
+                        }
+                    }
+
+                    @media only screen and (min-width:768px) and (max-width: 1024px) {
+                        .tatsu-row>.tatsu-SyVMkNWLE.tatsu-column {
+                            width: 50%;
+                        }
+                    }
+
+                    @media only screen and (max-width: 767px) {
+                        .tatsu-row>.tatsu-SyVMkNWLE.tatsu-column {
+                            width: 100%;
+                        }
+                    }
+                </style>
+            </div>
+        </div>
+        <div class="row">
+            <div class="tatsu-section-background-wrap clearfix" data-src=""></div>
+        </div>
+    </div>
+            
+</div>
+</section>

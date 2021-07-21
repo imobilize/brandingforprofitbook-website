@@ -1,0 +1,43 @@
+<head>
+    <meta charset="utf-8">
+    <title>{{ .Title }} - {{ .Site.Title }}</title>
+    
+    {{ template "_internal/schema.html" . }}
+  
+    {{ template "_internal/opengraph.html" . }}
+  
+    {{ template "_internal/twitter_cards.html" . }}
+  
+    {{ "<!-- mobile responsive meta -->" | safeHTML }}
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    {{ with .Site.Params.author }}
+    <meta name="author" itemprop="author" content="{{ . }}">{{ end }}
+  
+    {{ hugo.Generator }}
+  
+    {{ "<!-- plugins -->" | safeHTML }}
+    {{ range .Site.Params.plugins.css }}
+    <link rel="stylesheet" href="{{ .URL | relURL }} ">
+    {{ end }}
+  
+    {{ "<!-- Fonts -->" | safeHTML }}
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" rel="stylesheet"
+      type="text/css">
+      
+    {{ "<!-- Main Stylesheet -->" | safeHTML }}
+    {{ $styles1 := resources.Get "scss/style.scss" | toCSS | minify }}
+    <link rel="stylesheet" href="{{ $styles1.RelPermalink }}" media="screen">
+  
+    {{ "<!-- Main Stylesheet -->" | safeHTML }}
+    {{ $styles2 := resources.Get "css/main.css" | minify }}
+    <link rel="stylesheet" href="{{ $styles2.RelPermalink }}" media="screen">
+  
+    {{ "<!--Favicon-->" | safeHTML }}
+    <link rel="shortcut icon" href="/favicon-32x32.png" type="image/x-icon">  
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+  
+  
+  </head>
