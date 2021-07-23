@@ -90,6 +90,7 @@ h6 {
   padding: 22px 0;
   margin: 0 0 30px;
 }
+
 .header p {
   font-size: 16px;
   line-height: 26px;
@@ -254,7 +255,7 @@ h6 {
   box-sizing: border-box;
   border-radius: 5px;
   margin: 0 auto;
-  background: #0a1643;
+  background: #2978ed;
   display: inline-block;
   padding: 0px 20px;
 }
@@ -276,17 +277,15 @@ h6 {
   letter-spacing: 0.02em;
   text-transform: uppercase;
   margin: 15px 0 10px;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.5);
+  text-shadow: 0px 2px 2px rgba(0, 0, 0, 0.7);
 }
 .sales_intro h1 span {
   color: #f9b939;
 }
 .sales_intro p.heading_txt {
   font-weight: 600;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 25px;
-  opacity: 0.9;
-  text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
   margin-bottom: 20px;
 }
 
@@ -651,6 +650,9 @@ h6 {
 .old_new_way_blue_bkg h2 span {
   color: #f9b939;
 }
+.old_new_way_blue_bkg h4 {
+  color: white;
+}
 .old_new_way_blue_bkg .ch_te_video {
   margin-bottom: 28px !important;
 }
@@ -826,7 +828,7 @@ p.mbc_logo_txt img {
 
 .limited_time {
   font-family: "helveticaregular";
-  background: #9f0303;
+  background: #bf0000;
   opacity: 0.9;
   border-radius: 3px;
   font-size: 18px;
@@ -927,7 +929,7 @@ p.mbc_logo_txt img {
 }
 
 .book_icons {
-  margin: 5px 0 69px;
+  margin: 5px 0 39px;
   position: relative;
 }
 .book_icons h3 {
@@ -944,13 +946,13 @@ p.mbc_logo_txt img {
 }
 
 .left .book_icons {
-  margin: 130px 0 70px;
+  margin: 30px 0 20px;
 }
 .left .book_icons p {
-  padding-left: 50px;
+  padding-left: 20px;
 }
 .right .book_icons p {
-  padding-right: 50px;
+  padding-right: 20px;
 }
 
 .line1 {
@@ -997,7 +999,7 @@ p.mbc_logo_txt img {
 }
 
 .products {
-  /* padding: 30px; */
+  padding-top: 20px;
   height: 200px;
   width: 100%;
   position: relative;
@@ -1074,7 +1076,7 @@ p.mbc_logo_txt img {
   height: 28px;
   text-align: center;
   right: 0;
-  top: 34px;
+  top: 0px;
   font-size: 9.67274px;
   line-height: 27px;
   letter-spacing: 0.06em;
@@ -1109,11 +1111,13 @@ p.mbc_logo_txt img {
 }
 
 .bbot {
-  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  border-bottom: 1px solid rgb(210, 210, 210);
 }
 .brig {
-  border-right: 1px solid rgba(255, 255, 255, 0.1);
+  padding-right: 20px;
+  border-right: 1px solid rgb(210, 210, 210);
 }
+
 .br6 {
   border-radius: 6px !important;
 }
