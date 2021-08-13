@@ -155,4 +155,4 @@ HOW TO CONTACT US
 
 If you have any questions, please contact us using the information below.
 
-By email: support@automaticclients.com
+By email: admin@imobilize.co.uk

@@ -222,7 +222,7 @@ HOW TO CONTACT US
 
 If you have any questions or complaints related to this Privacy Policy, or would like to exercise any of your rights, please contact us using the information below.
 
-By email: support@automaticclients.com
+By email: admin@imobilize.co.uk
 
 CHANGES TO THE PRIVACY POLICY
 
