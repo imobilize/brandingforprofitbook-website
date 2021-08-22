@@ -1,10 +1,11 @@
 ---
-title: "Branding For Profit Book Terms And Conditions"
+title: "Terms And Conditions"
 date: 2020-09-25T15:28:43+06:00
 draft: false
 description: "Branding For Profit Book Terms And Conditions Explained"
 author: "Andre Barrett"
-images: ["images/blog/branding-for-profit-book.jpg"]
+image: "images/branding-for-profit-book.jpg"
+images: ["images/branding-for-profit-book.jpg"]
 keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Profit, Book On Branding"
 ---
 
@@ -15,7 +16,7 @@ NOTICE: Please read the terms and conditions set forth below, which are legally 
 
 PLEASE READ THE SECTIONS TITLED "BINDING ARBITRATION" AND "CLASS ACTION WAIVER" AS THEY AFFECT YOUR LEGAL RIGHTS.
 
-Automatic Clients, which is operated by Alpha Four Media LLC ("Company", "we", "us", or "our") provides visitors information on https://automaticclients.com ("website") subject to the following terms and conditions ("Terms and Conditions"). The term "you" refers to any visitor, viewer or user of the website and/or any user of any free or paid program, product, course or service of the Company (each, a "Product").
+Branding For Profit, which is operated by iMobilize Ltd ("Company", "we", "us", or "our") provides visitors information on https://brandingforprofitbook.com ("website") subject to the following terms and conditions ("Terms and Conditions"). The term "you" refers to any visitor, viewer or user of the website and/or any user of any free or paid program, product, course or service of the Company (each, a "Product").
 
 By viewing, visiting or using the website and/or a Product, you indicate your acceptance and agreement to be bound by these Terms and Conditions and our Privacy Policy and Disclaimer, which are hereby incorporated by reference (collectively, this "Agreement"). If you do not accept the terms and conditions of this Agreement, then please do not use the website or any Products. These Terms and Conditions were created with the help of the Terms and Conditions Generator and Terms and Conditions Solutions.
 
