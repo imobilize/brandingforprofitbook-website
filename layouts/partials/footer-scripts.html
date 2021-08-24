@@ -11,33 +11,36 @@
 <script src="{{ $script.RelPermalink }}"></script>
 
 <script>
-    $(document).ready(function () {
-        var iframe = document.querySelector('#vi-banner-video');
-        videoPlayer = new Vimeo.Player(iframe);
-        videoPlayer.setVolume(0);
-        videoPlayer.play();
 
-        $(document).on("click", "#js-video-control", function () {
-            videoPlayer.setCurrentTime(0);
+window._wq = window._wq || [];
+_wq.push({ id: "1i83mxhm2z", onReady: function(videoPlayer) {
+  
+    console.log("I got a handle to the video!", videoPlayer);
+
+    $(document).on("click", "#js-video-control", function () {
+            
             setTimeout(function () {
-                videoPlayer.setVolume(1);
+                videoPlayer.volume(1);
                 videoPlayer.play();
             }, 100);
             $(this).remove();
             $("#js-video-control2").remove();
 
-        });
-        $(document).on("click", "#js-video-control2", function () {
-            videoPlayer.setCurrentTime(0);
+    });
+    
+    $(document).on("click", "#js-video-control2", function () {
+            
             setTimeout(function () {
-                videoPlayer.setVolume(1);
+                videoPlayer.volume(1);
                 videoPlayer.play();
             }, 100);
             $(this).remove();
             $("#js-video-control").remove();
 
-        });
     });
+
+}});
+
 </script>
 
 

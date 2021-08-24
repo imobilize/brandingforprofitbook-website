@@ -1,10 +1,11 @@
 ---
-title: "Branding For Profit Book Privacy Policy"
+title: "Privacy Policy"
 date: 2020-09-25T15:28:43+06:00
 draft: false
 description: "Branding For Profit Book Privacy Policy Explained"
 author: "Andre Barrett"
-images: ["images/blog/branding-for-profit-book.jpg"]
+image: "images/branding-for-profit-book.jpg"
+images: ["images/branding-for-profit-book.jpg"]
 keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Profit, Book On Branding"
 ---
 
@@ -15,7 +16,7 @@ NOTICE: Please read the Privacy Policy set forth below carefully, as it is desig
 
 The Privacy Policy set forth below is legally binding. By visiting, viewing or using this website and/or by using any program, product, course or service from us, you agree to be bound by this Privacy Policy.
 
-Your privacy is important to Automatic Clients, which is operated by Alpha Four Media LLC ("Company", "we", "us", or "our"). We use the term "personal information" to refer to data we collect that may, directly or indirectly, identify, describe, relate to or be associated with you. This privacy policy ("Privacy Policy") applies to personal information we collect when you interact with us through different means, including by visiting and using our website, https://automaticclients.com ("website"). The term "you" refers to any visitor, viewer or user of the website and/or any user of any Product. Please note that we cannot control the privacy practices of websites and services that we do not own.
+Your privacy is important to Branding For Profit, which is operated by iMobilize Ltd ("Company", "we", "us", or "our"). We use the term "personal information" to refer to data we collect that may, directly or indirectly, identify, describe, relate to or be associated with you. This privacy policy ("Privacy Policy") applies to personal information we collect when you interact with us through different means, including by visiting and using our website, https://brandingforprofitbook.com ("website"). The term "you" refers to any visitor, viewer or user of the website and/or any user of any Product. Please note that we cannot control the privacy practices of websites and services that we do not own.
 
 Please read the entire Privacy Policy before you visit or use the website or perform any Actions (as defined below). By visiting the website or performing any Actions (as defined below), you consent to the terms of this Privacy Policy. This Privacy Policy was created with the help of the Privacy Policy Generator and Privacy Policy Solutions.
 
@@ -74,7 +75,7 @@ Google Analytics
 
 Google Analytics is a web analytics service by Google that uses data for analytics and measurements to understand how websites are used. Google Analytics primarily uses cookies to study user interactions. To learn about the privacy practices of Google Analytics, please review their privacy policy, which can be found at: https://policies.google.com/privacy?hl=en-US.
 
-To opt-out of Google analytics, you can download the Google Analytics opt-out add-on, which allows users to disable the use of data by Google Analytics JavaScript. Theadd-on is available for Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari and Opera.
+To opt-out of Google analytics, you can download the Google Analytics opt-out add-on, which allows users to disable the use of data by Google Analytics JavaScript. The add-on is available for Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, Apple Safari and Opera.
 
 Business Transfers. If we are acquired by a third party as a result of a transfer, sale, merger, acquisition, reorganization, liquidation, consolidation, merger or sale of some or all of our Company, your personal information may be a transferred asset. We may also share personal information to prospective purchasers to diligence the proposed transaction.
 
