@@ -9,22 +9,27 @@ images: ["images/branding-for-profit-book.jpg"]
 keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Profit, Book On Branding"
 ---
 
-Privacy Policy
+# Privacy Policy
 --------------------
 
-NOTICE: Please read the Privacy Policy set forth below carefully, as it is designed to provide important information on how and why we collect, use, store and share your personal information. It also outlines the rights you can exercise regarding your personal information and how you can contact us if you have any questions or complaints.
+**NOTICE**: Please read the Privacy Policy set forth below carefully, as it is designed to provide important information on how and why we collect, use, store and share your personal information. It also outlines the rights you can exercise regarding your personal information and how you can contact us if you have any questions or complaints.
+
 
 The Privacy Policy set forth below is legally binding. By visiting, viewing or using this website and/or by using any program, product, course or service from us, you agree to be bound by this Privacy Policy.
 
-Your privacy is important to Branding For Profit, which is operated by iMobilize Ltd ("Company", "we", "us", or "our"). We use the term "personal information" to refer to data we collect that may, directly or indirectly, identify, describe, relate to or be associated with you. This privacy policy ("Privacy Policy") applies to personal information we collect when you interact with us through different means, including by visiting and using our website, https://brandingforprofitbook.com ("website"). The term "you" refers to any visitor, viewer or user of the website and/or any user of any Product. Please note that we cannot control the privacy practices of websites and services that we do not own.
+Your privacy is important to Branding For Profit, which is operated by iMobilize Ltd ("Company", "we", "us", or "our"). We use the term "personal information" to refer to data we collect that may, directly or indirectly, identify, describe, relate to or be associated with you. This privacy policy ("Privacy Policy") applies to personal information we collect when you interact with us through different means, including by visiting and using our website, **https://brandingforprofitbook.com** ("website"). The term "you" refers to any visitor, viewer or user of the website and/or any user of any Product. Please note that we cannot control the privacy practices of websites and services that we do not own.
 
 Please read the entire Privacy Policy before you visit or use the website or perform any Actions (as defined below). By visiting the website or performing any Actions (as defined below), you consent to the terms of this Privacy Policy. This Privacy Policy was created with the help of the Privacy Policy Generator and Privacy Policy Solutions.
 
-INFORMATION WE COLLECT AND HOW WE COLLECT IT
+
+## INFORMATION WE COLLECT AND HOW WE COLLECT IT
+
 
 The following describes the categories of personal information we collect and how we collect such information.
 
-Information You Provide. We collect information you provide to us directly. This includes information you provide when you (i) receive any free or purchase any paid programs, products, courses or services from us (each, a "Product"), (ii) sign up to receive any emails, (iii) comment on any posts or otherwise communicate with us on any social media platform, (iv) register for presentations or classes, (v) fill out any forms, (vi) access public or private membership groups, including those hosted via a third-party platform (i.e., Facebook), (vii) sign up to become our affiliate partner, (viii) respond to any survey, (ix) participate in any contest or sweepstakes, or (x) contact us through any other means, including via an online form, phone call, or email (collectively, the "Actions").
+Information You Provide. We collect information you provide to us directly. This includes information you provide when you 
+
+(i) receive any free or purchase any paid programs, products, courses or services from us (each, a "Product"), (ii) sign up to receive any emails,(iii) comment on any posts or otherwise communicate with us on any social media platform, (iv) register for presentations or classes, (v) fill out any forms, (vi) access public or private membership groups, including those hosted via a third-party platform (i.e., Facebook), (vii) sign up to become our affiliate partner, (viii) respond to any survey, (ix) participate in any contest or sweepstakes, or (x) contact us through any other means, including via an online form, phone call, or email (collectively, the "Actions").
 
 Examples of data we may receive include your first name, last name, telephone number, email address, shipping address, physical address (such as your address, state, province, ZIP/postal code and city), billing address, billing information (such as your credit card number), gender, account name, financial information, Social Security Number, Tax Identification Number, Employer Identification Number, PayPal address, and other information you provide to us through survey responses, feedback, reviews and other means of communication.
 
@@ -36,7 +41,8 @@ party platform (i.e., Facebook). Examples of data we may receive include your pr
 
 Information from Internet or Other Electronic Network Activity. We automatically collect some data about your computer or mobile device when you access our website. Examples of data we may receive include your Internet Protocol ("IP") address, browser type, browser version, cookies from your browser, unique device identifiers, web browser software (i.e., Google Chrome), information about the referring website, the date, time and length of your visit, including the specific pages you visit, information on how you interact with the website, Products and tools and other diagnostic data. Examples of additional data we may receive when you access our website through a mobile device include the type of mobile device you are using, the unique mobile device ID, your mobile operating system, web browser software on mobile, unique device identifiers and other diagnostic data.
 
-PURPOSES FOR COLLECTING INFORMATION
+
+## PURPOSES FOR COLLECTING INFORMATION
 
 We use your information for business and commercial purposes. For example, we may use your information to:
 
@@ -48,7 +54,6 @@ We use your information for business and commercial purposes. For example, we ma
 -   Secure our website and data.
 -   Create Products that you are interested in.
 -   Ship or otherwise deliver, process payment for, communicate about, and track orders of any Products.
-
 -   Suggest Products you may like based on past purchases and otherwise personalize your experience with the website.
 -   Provide promotional and marketing communications and information if you elect to receive it, including email marketing.
 -   Improve the design, functionality and ease-of-use of our website and Products.
@@ -63,7 +68,7 @@ We use your information for business and commercial purposes. For example, we ma
 
 Respond to legal and regulatory inquiries and assist law enforcement.
 
-THIRD PARTIES WE SHARE INFORMATION WITH
+## THIRD PARTIES WE SHARE INFORMATION WITH
 
 The following is a list of third parties that we may share your information with or for.
 
@@ -71,7 +76,7 @@ Affiliate Partners. We may share your information with affiliate partners to gen
 
 Analytics Providers. We may share your information with analytics providers.
 
-Google Analytics
+**Google Analytics**
 
 Google Analytics is a web analytics service by Google that uses data for analytics and measurements to understand how websites are used. Google Analytics primarily uses cookies to study user interactions. To learn about the privacy practices of Google Analytics, please review their privacy policy, which can be found at: https://policies.google.com/privacy?hl=en-US.
 
@@ -89,11 +94,10 @@ Delivery Partners. We may share your information with delivery partners, such as
 
 Email Marketing and Advertising Providers. We may share your information with marketing and advertising providers, including email marketing and campaign providers, marketing software providers, direct mail providers, marketing analytics providers and sales funnel providers. We may share your information with email marketing service providers, in order to send you emails, newsletters, promotional materials, marketing materials or other information.
 
-ActiveCampaign
+**ActiveCampaign**
 
-ActiveCampaign is an email marketing provider operated by ActiveCampaign, LLC. To learn about the privacy practices of ActiveCampaign, please review their privacy policy, which can be found at: https://www.activecampaign.com/legal/privacy-policy
-
-Keap
+ActiveCampaign is an email marketing provider operated by ActiveCampaign, LLC. To learn about the privacy practices of ActiveCampaign, please review their privacy policy, which can be found at: **https://www.activecampaign.com/legal/privacy-policy**
+**Keap**
 
 Keap is an email marketing provider operated by Infusion Software, Inc. To learn about the privacy practices of Keap, please review their privacy policy, which can be found at:
 
@@ -107,11 +111,11 @@ Government Agencies. We may share your information with government agencies, cou
 
 Other Service Providers. We may share your information with service providers. Payment Processors. We may share your information with payment processors, such as those we use to collect and process payment for any Products you purchase.
 
-PayPal
+**PayPal**
 
 PayPal is a payment processor. To learn about the privacy practices of PayPal, please review their privacy policy, which can be found at: https://www.paypal.com/webapps/mpp/ua/privacy-full
 
-Stripe
+**Stripe**
 
 Stripe is a payment processor operated by Stripe, Inc. To learn about the privacy practices of Stripe, please review their privacy policy, which can be found at: https://stripe.com/privacy
 
@@ -123,7 +127,7 @@ Third Parties. We may share your information with third parties whom we have con
 
 Third Party Partners. We may share your information with third parties we have partnered with to jointly create or offer a product, service or joint promotion.
 
-COOKIES AND OTHER TRACKING TECHNOLOGIES
+## COOKIES AND OTHER TRACKING TECHNOLOGIES
 
 We may collect and access, and may permit our business partners and third party service providers, such as advertising companies, to collect and access your Internet Protocol (IP) address, browsing metadata and other numerical identifiers, such as your browser type, version and operating system (collectively, the "Browsing Information"). We may also use, place, collect and store, or allow our third party service providers to use, place, collect and store, cookies, web beacons, remarketing pixel tags, or other similar tracking technologies.
 
@@ -131,7 +135,7 @@ We, our business partners and third party service providers may use this informa
 
 By using the website and not opting out of cookies, you consent to the use of Browsing Information, cookies and other tracking technologies as described in this Privacy Policy. Note that we have no control over these third party service providers and their use of such tracking technologies. We cannot and do not control the privacy policies and practices of any third party service providers. We encourage you to visit their websites directly to learn about their privacy policies.
 
-YOUR CHOICES
+## YOUR CHOICES
 
 It is important to us that you understand your choices regarding your personal information.
 
@@ -145,23 +149,23 @@ Unsubscribing from Email Marketing. If you receive any email marketing from us, 
 
 Other Opt-Out Options. If we send you physical mailings or short message service (SMS) messages or contact you via telephone, you can opt-out by contacting us using the contact details provided below.
 
-DATA RETENTION
+## DATA RETENTION
 
 We retain personal information as long as it is needed to conduct and operate our business or until you ask us to delete your personal information by contacting us using the contact details provided below. Please note that we cannot control the data retention policies of third parties.
 
-THIRD PARTY LINKS
+## THIRD PARTY LINKS
 
 For your convenience, we provide links to third party websites on our website, such as links to third party social media platforms. If you click on a link to a third party website, you will be directed to a third party website. We cannot and do not control the privacy policies, content and practices of the website owners and operators of any of the third party websites that we link to. We encourage you to visit their websites directly to learn about their privacy policies.
 
-HOW WE PROTECT YOUR PERSONAL INFORMATION
+## HOW WE PROTECT YOUR PERSONAL INFORMATION
 
 We care about the security of your personal information, so we maintain reasonable and appropriate physical, technical and procedural safeguards to help keep it safe. While we take reasonable steps to protect your personal information, no method of transmission over the internet or other network can be 100% secure, therefore we cannot and do not guarantee that personal information you transmit will remain secure from misuse or interception in all circumstances. By consenting to this Privacy Policy, you acknowledge that we cannot guarantee that your personal information will be protected from misuse or interception by third parties.
 
-INTERNATIONAL DATA, TRANSFERS AND PROCESSING
+## INTERNATIONAL DATA, TRANSFERS AND PROCESSING
 
 Our website is intended for individuals located within the United States. Please be aware that our website servers and our service providers may be located outside of your state, province or country. As a result, some of your personal information may be collected, used, transferred, maintained, disclosed and stored outside of your state, province or country. By using this website, you acknowledge and agree that the collection, use, transfer, maintenance, disclosure and storage of your personal information, Browsing Information and communications related to or arising out of your use of this website is governed by the applicable laws in the United States. While we have the appropriate safeguards in place, the applicable privacy laws in the United States may be less stringent than those of your state, province or country.
 
-NOTICE ABOUT THE GENERAL DATA PROTECTION REGULATION (GDPR NOTICE)
+## NOTICE ABOUT THE GENERAL DATA PROTECTION REGULATION (GDPR NOTICE)
 
 The information in this section, under the subheading "Notice About the General Data Protection Regulation", applies to individuals covered by the General Data Protection Regulation ("GDPR"). References to "you" and "your" in this section refer only to those covered by GDPR. GDPR, which took effect on May 25, 2018, provides privacy rights for those inside the European Economic Area.
 
@@ -190,7 +194,7 @@ You have certain rights you can exercise under the GDPR, including the following
 
 To exercise any of your rights, please contact us using the contact details provided below. We are required to verify the identity of anyone who makes any request.
 
-NOTICE TO CALIFORNIA RESIDENTS (CCPA NOTICE)
+## NOTICE TO CALIFORNIA RESIDENTS (CCPA NOTICE)
 
 The information in this section, under the subheading "Notice to California Residents", applies to residents of California. References to "you" and "your" in this section refer only to residents of California. The California Consumer Protection Act ("CCPA"), which took effect on January 1, 2020, provides privacy rights for residents of California. Please refer to the referenced sections in this Privacy Policy for details on the following, which you have a right to know under the CCPA:
 
@@ -207,28 +211,28 @@ As a California resident, you have certain rights you can exercise under the CCP
 
 To exercise any of your rights, please contact us using the contact details provided below. We are required to verify the identity of anyone who makes any request.
 
-NOTICE TO CALIFORNIA RESIDENTS (California's "Shine the Light" Law)
+## NOTICE TO CALIFORNIA RESIDENTS (California's "Shine the Light" Law)
 
 We do not share your personal information with third parties who we know or have reason to know may use your personal information for "direct marketing purposes" as contemplated by California's "Shine the Light" law (Civil Code Section § 1798.83).
 
-NOTICE TO NEVADA RESIDENTS
+## NOTICE TO NEVADA RESIDENTS
 
 We do not exchange your personal information for monetary consideration with anyone who will license or sell your personal information to third parties.
 
-CHILDREN'S PRIVACY
+## CHILDREN'S PRIVACY
 
 This website is not directed towards or designed for use by children under the age of 18. This website and the information contained on it is specifically designed for individuals over the age of 18. If you are under the age of 18, you must not access this website or perform any of the Actions. We do not knowingly collect, use, store or share personal information from children under the age of 18. If you know or have reason to believe that we have collected data from anyone under the age of 18, please contact us using the contact details provided for removal of that data.
 
-HOW TO CONTACT US
+## HOW TO CONTACT US
 
 If you have any questions or complaints related to this Privacy Policy, or would like to exercise any of your rights, please contact us using the information below.
 
-By email: admin@imobilize.co.uk
+By email: **admin@imobilize.co.uk**
 
-CHANGES TO THE PRIVACY POLICY
+## CHANGES TO THE PRIVACY POLICY
 
 We reserve the right to change, amend or modify this Privacy Policy at any time. We will alert you to any changes by posting the effective date of the latest version at the top of this page, at which point any changes will become immediately effective. It is your responsibility to check for updates, as your continued use of the website and our Products after the Privacy Policy is amended will constitute your acceptance and agreement to continue to be bound by the Privacy Policy as of the last updated date indicated at the top of this page.
 
-ALTERNATIVE FORMS
+## ALTERNATIVE FORMS
 
 You may print this Privacy Policy by using the "Print" function on your browser.
