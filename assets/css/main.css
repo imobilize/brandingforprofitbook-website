@@ -707,6 +707,7 @@ background: linear-gradient(180deg, #041857 0%, #073168 100%);
   position: relative;
   padding-top: 19px;
 }
+
 .download_btn small {
   font-size: 12px;
   font-family: "helveticaregular";
@@ -1832,6 +1833,13 @@ p.weteach.weteachgrey {
   font-weight: 400;
 }
 
+.footer-package-image{
+  position: relative;
+  bottom:28px;
+  height: 100%;
+  width: 90%;
+}
+
 .hereiswhy {
   border: 2.43811px solid #1c265a;
   box-sizing: border-box;
@@ -2212,7 +2220,7 @@ span.bkg_yellow {
   font-feature-settings: "ss03" on;
   color: #061130;
   display: inline;
-  margin-right: 15px;
+  margin-right: 5px;
 }
 .book_sec_checkout .inner_box h5 img {
   margin: -2px 2px 0 0;
@@ -2311,7 +2319,7 @@ span.bkg_yellow {
 }
 .chapter_sec_new .text_area {
   padding: 20px;
-  height: 252px;
+  height: 380px;
 }
 .chapter_sec_new .text_area.big {
   padding: 20px;
