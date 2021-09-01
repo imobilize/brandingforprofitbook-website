@@ -726,7 +726,7 @@ background: linear-gradient(180deg, #041857 0%, #073168 100%);
   min-width: 676px;
 }
 .download_btn.w503 {
-  min-width: 503px;
+  min-width: 70%;
   padding-left: 70px;
 }
 .download_btn.w100 {
