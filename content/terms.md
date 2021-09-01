@@ -24,13 +24,21 @@ We reserve the right to amend this Agreement at any time without notice to you. 
 
 Products after this Agreement is amended will constitute your acceptance and agreement to continue to be bound by this Agreement, as amended.
 
+<br>
+
 ## United States AND OVER 18 USE ONLY
+
+<br>
 
 The website is intended only for individuals over the age of 18 residing in the United States. We do not make any representations that this website is appropriate or available for use outside of the United States. If you access the website or any of our Products from outside of the United States, you do so at your own risk and on your own initiative.\
 It is solely your responsibility to ensure compliance with applicable laws in your specific\
 jurisdiction. 
 
+<br>
+
 ## GUIDELINES FOR USE
+
+<br>
 
 We have established certain guidelines to keep our community safe ("Guidelines"). By visiting or using the website or any Product, you agree to abide by these Guidelines, which are as follows:
 
@@ -66,7 +74,11 @@ You will notify us through the contact information provided below if you know or
 
 We reserve the right to deny you access to the website and any Products in our sole discretion at any time and for any reason.
 
+<br>
+
 ## INTELLECTUAL PROPERTY
+
+<br>
 
 The website and its content and all Products, including but not limited to videos, coursework, training modules, photographs, sound recordings, images, digital content, material available as a free download, software, text, graphics and other material, are owned or licensed by the Company and are protected by copyright, trademarks (whether registered or unregistered), design rights, database rights and all other intellectual property rights afforded to us ("Intellectual Property").
 
@@ -78,11 +90,19 @@ You may not reproduce, resell, distribute, publicly perform, create derivative w
 
 It is in our sole discretion to give written consent for you to reproduce, resell, distribute, publicly perform, create derivative works, translate, transmit, post, republish, copy or otherwise use our Intellectual Property. If you have any questions, please contact us using the contact information provided below.
 
+<br>
+
 ## NO WARRANTIES
+
+<br>
 
 Your use of this website and any Products is entirely at your risk, as the website and our Products are provided on an "as is" and "as available" basis. We do not make any express or implied warranties or representations relating to the website, its content and our Products, including but not limited to warranties of title, merchantability, fitness for a particular purpose and non-infringement of third parties' rights. We also do not make any express or implied warranties or representations that the website will operate without error or that the website, the servers relied on, our Products and any content is free from computer viruses or other potentially harmful or destructive features. Some jurisdictions do not permit the exclusion of certain warranties. As such, some of the exclusions referenced in this section may not apply to you.
 
+<br>
+
 ## LIMITATION OF LIABILITY
+
+<br>
 
 To the fullest extent permissible by law, the Company and our directors, contractors, successors, joint venture partners, shareholders, agents, affiliates, officers, employees,
 
@@ -90,11 +110,19 @@ assignees and licensees, as applicable, shall not be liable for any direct, indi
 
 This limitation of liability applies whether such liability arises from tort, negligence, breach of contract or any other legal theory of liability.
 
+<br>
+
 ## INDEMNIFICATION
+
+<br>
 
 You shall indemnify, defend and hold harmless the Company and our affiliates, and our respective directors, contractors, successors, joint venture partners, shareholders, agents, affiliates, officers, employees, assignees and licensees from and against any and all damages, liabilities, losses, costs and expenses resulting from any suits, proceedings, judgments, demands, causes of action and claims (collectively, the "Claims"), including legal and accounting fees and expenses, whether or not involving a third party claim, to the extent arising out of, relating to or resulting from: (i) your use or misuse of this website or any of our Products, (ii) your breach of this Agreement, or (iii) your violation of any third party rights, including without limitation any copyright, trade secret, trademark, right of publicity, privacy, property or other intellectual property or proprietary rights. We will provide you with notice of any Claims, and may in our sole discretion assist you, at your expense, in defending such Claims. We reserve the right to assume exclusive control of defending any such Claim, at your expense, including choice of legal counsel. You agree to cooperate and assist us in defending any such Claim.
 
+<br>
+
 ## LIMITED LICENSE
+
+<br>
 
 Notwithstanding any other provisions in this Agreement, if you purchase any Products or download any of our free Products, we grant you a limited, non-sublicensable,
 
@@ -102,45 +130,85 @@ non-transferable, non-exclusive, revocable license ("License") to use or access 
 
 Your License is for individual use. You have no right to assign any of your rights or transfer any of your obligations under this Agreement. If we discover that any violation of the terms and conditions in this Agreement has occurred, including violation of the License granted to you, we reserve the right to terminate your access to the Products and invoice you for any damages.
 
+<br>
+
 ## CONFIDENTIAL INFORMATION
+
+<br>
 
 Please do not send, email, or otherwise make available any material that contains any confidential information.
 
+<br>
+
 ## FEES
+
+<br>
 
 When you purchase any Product through this website, you are responsible for all applicable fees and taxes. It is your responsibility to provide complete, accurate and up-to-date billing and credit card information. If you are on a payment plan or recurring payment, it is your responsibility to keep an up-to-date payment method with us. If your payment method is declined or expired, you hereby agree to pay all applicable fees and taxes due upon demand. You also agree to pay all costs of collection, including but not limited to attorney's fees, on any outstanding balance.
 
+<br>
+
 ## WEBSITE AVAILABILITY
+
+<br>
 
 Your access to the website or Products may occasionally be restricted, such as when we need to make repairs or are introducing new features. Your access to the website or Products may also become permanently disabled, such as if we decide to terminate the operation of the website or Products. We cannot guarantee that you will have continuous access to the website or Products.
 
+<br>
+
 ## REFUND POLICY
+
+<br>
 
 We offer refunds for some of our Products. Refer to the terms for each specific product to learn about its refund policy. Although unlikely, we reserve the right to change our refund policy at any time. 
 
+<br>
+
 ## GOVERNING LAW
+
+<br>
 
 All matters relating to or arising out of this Agreement shall be governed by and construed and interpreted under the laws of the state of Wyoming, United States of America, without regard to conflicts of laws principles that would require the application of any other law.
 
+<br>
+
 ## CLASS ACTION WAIVER
+
+<br>
 
 You agree that any dispute arising out of or relating to this Agreement shall be solely between you and the Company.
 
 YOU AGREE TO WAIVE THE RIGHT TO LITIGATE IN COURT OR ARBITRATE ANY CLAIM OR DISPUTE AS A CLASS ACTION. YOU AGREE THAT YOU WILL ONLY MAKE CLAIMS AGAINST US IN YOUR INDIVIDUAL CAPACITY, AND CANNOT MAKE CLAIMS AGAINST US AS A MEMBER OF A CLASS OR AS A REPRESENTATIVE.
 
+<br>
+
 ## ENTIRE AGREEMENT
+
+<br>
 
 This Agreement, the Privacy Policy and Disclaimer contain the entire agreement between you and the Company with respect to the subject matter hereof and thereof and supersede all prior agreements and undertakings, both written and oral, with respect thereto.
 
+<br>
+
 ## TERMINATION OF AGREEMENT
+
+<br>
 
 We reserve the right, in our sole discretion, to terminate this Agreement and to terminate, restrict, deny, or suspend your access to the website and all Products at any time and for any purpose without prior notice. We also reserve the right to discontinue any or all of the website or Products at any time and for any purpose without prior notice.
 
+<br>
+
 ## SEVERABILITY
+
+<br>
 
 If any term or other provision of this Agreement is held to be invalid, prohibited or unenforceable under applicable law, the other provisions of this Agreement will remain in full force and effect.
 
+<br>
+
 ## MISCELLANEOUS
+
+<br>
 
 Our failure to act on or delay in exercising any privilege, power or right under this Agreement will not operate as a waiver of such privilege, power or right, and no single or partial exercise of any such privilege, power or right will preclude any other or further exercise of such privilege, power or right or the exercise of any other privilege, power or right.
 
@@ -150,7 +218,11 @@ The terms and conditions of this Agreement shall inure to the benefit of and be 
 
 If any action at law or in equity is necessary to enforce or interpret the terms of this Agreement, the prevailing party shall be entitled to reasonable attorneys' fees, costs and disbursements in addition to any other relief to which such party may be entitled.
 
+<br>
+
 ## HOW TO CONTACT US
+
+<br>
 
 If you have any questions, please contact us using the information below.
 
