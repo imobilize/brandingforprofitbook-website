@@ -10,6 +10,26 @@ images: ["images/blog/branding-for-profit-book.jpg"]
 keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Profit, Book On Branding"
 ---
 
+<script type="text/javascript">
+	var eventMethod = window.addEventListener
+			? "addEventListener"
+			: "attachEvent";
+	var eventer = window[eventMethod];
+	var messageEvent = eventMethod === "attachEvent"
+		? "onmessage"
+		: "message";
+
+	eventer(messageEvent, function (e) {
+		
+		if (e.data === "event" || e.message === "event") {
+
+            dataLayer.push(e.data)
+        }
+
+        console.log(e);
+	});
+</script>
+
 <style>
     .tc-bullet_style-checkbox li::before {
         color: #16d516 !important;
