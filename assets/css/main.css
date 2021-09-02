@@ -587,7 +587,7 @@ h6 {
 
 .old_new_way_blue_bkg {
   padding: 0px 0 40px;
-  background: url("/images/footer_bkg_sales.png") center center repeat;
+  background: url("/images/arrowhead-alternating.svg") center center repeat;
   /* background: #000924; */
   position: relative;
   z-index: 3;
@@ -645,7 +645,7 @@ h6 {
 }
 
 .demo_video_sec {
-background: linear-gradient(180deg, #041857 0%, #073168 100%);
+  background: url("/images/arrowhead-alternating.svg") center center repeat;
   padding: 0 0 50px;
 }
 .demo_video_sec p.txt_grey {
@@ -2516,7 +2516,7 @@ span.bkg_yellow {
 }
 
 .faq_sec {
-  background: url("/images/faq_bkg.png") center top no-repeat;
+  background: url("/images/arrowhead-alternating.svg") center top no-repeat;
   background-size: cover;
   padding: 60px 0 60px;
 }
@@ -2783,7 +2783,7 @@ span.bkg_yellow {
   height: 122px;
   width: 100%;
   left: 0;
-  background: url("/images/footer_bkg_sales.png") center top no-repeat;
+  background: url("/images/arrowhead-alternating.svg") center top no-repeat;
   padding: 0px 0 0 0;
   background-size: cover;
   z-index: 99;
