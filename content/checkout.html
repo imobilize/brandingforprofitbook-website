@@ -21,7 +21,7 @@ keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Pro
 
 	eventer(messageEvent, function (e) {
 		
-		if (e.data === "event" || e.message === "event") {
+		if (e.data["event"] === "checkout") {
 
             dataLayer.push(e.data)
         }
