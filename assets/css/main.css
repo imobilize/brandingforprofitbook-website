@@ -577,7 +577,6 @@ h6 {
 .readthis {
   position: absolute;
   left: -93px;
-  top: -27px;
 }
 .yougetting {
   position: absolute;
@@ -615,12 +614,7 @@ h6 {
   padding-right: 80px;
   margin-bottom: 0;
 }
-.old_new_way_blue_bkg img.ACModelvsoldmodelDiagram {
-  width: 735px;
-  margin-left: -75px;
-  margin-bottom: 42px;
-  margin-top: 0px;
-}
+
 .old_new_way_blue_bkg h2 {
   font-size: 36px;
   line-height: 50px;
@@ -3717,12 +3711,7 @@ Line Height CLASSES
     font-size: 25px;
     margin-top: 30px;
   }
-  .old_new_way_blue_bkg img.ACModelvsoldmodelDiagram {
-    width: 100%;
-    margin-left: 0;
-    margin-bottom: 35px;
-    margin-top: 30px;
-  }
+
   .old_new_way_blue_bkg .col-lg-4.pl-0.pr-0 {
     padding-left: 15px !important;
     padding-right: 15px !important;
