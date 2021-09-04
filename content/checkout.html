@@ -10,6 +10,24 @@ images: ["images/blog/branding-for-profit-book.jpg"]
 keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Profit, Book On Branding"
 ---
 
+<script type="text/javascript">
+	var eventMethod = window.addEventListener
+			? "addEventListener"
+			: "attachEvent";
+	var eventer = window[eventMethod];
+	var messageEvent = eventMethod === "attachEvent"
+		? "onmessage"
+		: "message";
+
+	eventer(messageEvent, function (e) {
+		
+		if (e.data["event"] === "checkout") {
+
+            dataLayer.push(e.data)
+        }
+	});
+</script>
+
 <style>
     .tc-bullet_style-checkbox li::before {
         color: #16d516 !important;
@@ -226,16 +244,6 @@ keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Pro
                             </div>
                             <p><em>Immediate access to this product or service is available once payment is
                                     approved.</em></p>
-
-                            <ul>
-                                <li>Bonus 1: Fast Start Branding Video Series</li>
-                                <li>Bonus 2: Brand Style Guide Template</li>
-                                <li>Bonus 3: The Perfect Story Guide</li>
-                                <li>Bonus 4: Buyers Journey Template</li>
-                                <li>Bonus 5: The Perfect Customer Template</li>
-                                <li>Bonus 6: The Persuasive Brand Guide</li>
-                                <li>Bonus 7: Launch Checklist</li>
-                            </ul>
 
 
                         </div>
