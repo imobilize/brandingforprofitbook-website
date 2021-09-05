@@ -2652,7 +2652,7 @@ span.bkg_yellow {
 
 .details_list {
   margin: 0;
-  padding: 0 0 0 40px;
+  padding: 0 0 0 20px;
   border-left: 1px solid #ccc;
 }
 .details_list li {
