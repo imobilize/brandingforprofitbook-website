@@ -11,21 +11,21 @@ keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Pro
 ---
 
 <script type="text/javascript">
-	var eventMethod = window.addEventListener
-			? "addEventListener"
-			: "attachEvent";
-	var eventer = window[eventMethod];
-	var messageEvent = eventMethod === "attachEvent"
-		? "onmessage"
-		: "message";
+    var eventMethod = window.addEventListener
+        ? "addEventListener"
+        : "attachEvent";
+    var eventer = window[eventMethod];
+    var messageEvent = eventMethod === "attachEvent"
+        ? "onmessage"
+        : "message";
 
-	eventer(messageEvent, function (e) {
-		
-		if (e.data["event"] === "checkout") {
+    eventer(messageEvent, function (e) {
+
+        if (e.data["event"] === "checkout") {
 
             dataLayer.push(e.data)
         }
-	});
+    });
 </script>
 
 <style>
@@ -60,8 +60,15 @@ keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Pro
     }
 
     .testimonial-images {
-        height: 155px;
-        width: 555px;
+        height: 150px;
+        width: fit-content;
+    }
+
+    @media (min-width : 360px) {
+        .testimonial-images {
+            height: 110px;
+            width: fit-content;
+        }
     }
 
     .overlay_checkout {
@@ -208,7 +215,8 @@ keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Pro
 
                     <div class="hide_mobile">
                         <p class="icon_heading"><i class="fa fa-shopping-cart"></i> Order Summary</p>
-                        <img class="img-fluid" alt="Branding For Profit Checkout Banner" src="/images/about/branding-for-profit-mockups.png">
+                        <img class="img-fluid" alt="Branding For Profit Checkout Banner"
+                            src="/images/about/branding-for-profit-mockups.png">
                     </div>
 
                 </div>
@@ -223,7 +231,7 @@ keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Pro
                             <p>
                                 <strong>Your Price Today: </strong><span>$9.00</span>
                             </p>
-                            <div class="clearfix"></div>
+                            <!-- <div class="clearfix"></div> -->
                             <p>
                                 <strong>Plus</strong> all of these bonuses included <u>free for a limited time only!</u>
                             </p>
@@ -247,18 +255,15 @@ keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Pro
 
 
                         </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-12">
+                            <img src="/images/testimonials/amazon-1.png" class="img-fluid testimonial-images pb-3">
 
-                        <img src="/images/testimonials/amazon-1.png" class="testimonial-images pb-3">
-
-                        <img src="/images/testimonials/amazon-2.png" class="testimonial-images pb-3">
-                        <img src="/images/testimonials/amazon-3.png" class="testimonial-images pb-3">
-                        <img src="/images/testimonials/amazon-4.png" class="testimonial-images pb-3">
-
-
-
-
-
-
+                            <img src="/images/testimonials/amazon-2.png" class="img-fluid testimonial-images pb-3">
+                            <img src="/images/testimonials/amazon-3.png" class="img-fluid testimonial-images pb-3">
+                            <img src="/images/testimonials/amazon-4.png" class="img-fluid testimonial-images pb-3">
+                        </div>
                     </div>
                 </div>
             </div>
