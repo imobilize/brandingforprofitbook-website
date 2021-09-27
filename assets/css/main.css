@@ -577,7 +577,6 @@ h6 {
 .readthis {
   position: absolute;
   left: -93px;
-  top: -27px;
 }
 .yougetting {
   position: absolute;
@@ -587,7 +586,7 @@ h6 {
 
 .old_new_way_blue_bkg {
   padding: 0px 0 40px;
-  background: url("/images/footer_bkg_sales.png") center center repeat;
+  background: url("/images/arrowhead-alternating.svg") center center repeat;
   /* background: #000924; */
   position: relative;
   z-index: 3;
@@ -615,12 +614,7 @@ h6 {
   padding-right: 80px;
   margin-bottom: 0;
 }
-.old_new_way_blue_bkg img.ACModelvsoldmodelDiagram {
-  width: 735px;
-  margin-left: -75px;
-  margin-bottom: 42px;
-  margin-top: 0px;
-}
+
 .old_new_way_blue_bkg h2 {
   font-size: 36px;
   line-height: 50px;
@@ -645,7 +639,7 @@ h6 {
 }
 
 .demo_video_sec {
-background: linear-gradient(180deg, #041857 0%, #073168 100%);
+  background: url("/images/arrowhead-alternating.svg") center center repeat;
   padding: 0 0 50px;
 }
 .demo_video_sec p.txt_grey {
@@ -2313,10 +2307,25 @@ span.bkg_yellow {
   margin-bottom: 30px;
 }
 .chapter_sec_new img {
-  border-radius: 5px 5px 0 0;
-  width: 100%;
+  padding-top: 5px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 90% !important;
 }
 
+
+@media (min-width : 360px) {
+
+  .chapter_sec_new img {
+    padding-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70% !important;
+  }
+  
+}
 
 /*Small devices (landscape phones, 576px and up)*/
 @media (min-width: 576px) {
@@ -2332,8 +2341,17 @@ span.bkg_yellow {
   
   .chapter_sec_new .text_area {
     padding: 20px;
-    height: 280px;
+    height: 280px !important;
   }
+
+  .chapter_sec_new img {
+    padding-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70% !important;
+  }
+  
 }
 
 /*Medium devices (tablets, 768px and up)*/
@@ -2369,6 +2387,14 @@ span.bkg_yellow {
   .chapter_sec_new .text_area {
     padding: 20px;
     height: 280px;
+  }
+
+  .chapter_sec_new img {
+    padding-top: 5px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 90% !important;
   }
 }
 
@@ -2516,7 +2542,7 @@ span.bkg_yellow {
 }
 
 .faq_sec {
-  background: url("/images/faq_bkg.png") center top no-repeat;
+  background: url("/images/arrowhead-alternating.svg") center top no-repeat;
   background-size: cover;
   padding: 60px 0 60px;
 }
@@ -2658,7 +2684,7 @@ span.bkg_yellow {
 
 .details_list {
   margin: 0;
-  padding: 0 0 0 40px;
+  padding: 0 0 0 20px;
   border-left: 1px solid #ccc;
 }
 .details_list li {
@@ -2783,7 +2809,7 @@ span.bkg_yellow {
   height: 122px;
   width: 100%;
   left: 0;
-  background: url("/images/footer_bkg_sales.png") center top no-repeat;
+  background: url("/images/arrowhead-alternating.svg") center top no-repeat;
   padding: 0px 0 0 0;
   background-size: cover;
   z-index: 99;
@@ -3717,12 +3743,7 @@ Line Height CLASSES
     font-size: 25px;
     margin-top: 30px;
   }
-  .old_new_way_blue_bkg img.ACModelvsoldmodelDiagram {
-    width: 100%;
-    margin-left: 0;
-    margin-bottom: 35px;
-    margin-top: 30px;
-  }
+
   .old_new_way_blue_bkg .col-lg-4.pl-0.pr-0 {
     padding-left: 15px !important;
     padding-right: 15px !important;

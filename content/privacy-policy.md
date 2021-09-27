@@ -102,9 +102,10 @@ Delivery Partners. We may share your information with delivery partners, such as
 
 Email Marketing and Advertising Providers. We may share your information with marketing and advertising providers, including email marketing and campaign providers, marketing software providers, direct mail providers, marketing analytics providers and sales funnel providers. We may share your information with email marketing service providers, in order to send you emails, newsletters, promotional materials, marketing materials or other information.
 
-**ActiveCampaign**
+**SendInBlue**
 
-ActiveCampaign is an email marketing provider operated by ActiveCampaign, LLC. To learn about the privacy practices of ActiveCampaign, please review their privacy policy, which can be found at: **https://www.activecampaign.com/legal/privacy-policy**
+SendInBlue is an email marketing provider operated by SendInBlue, Inc. To learn about the privacy practices of SendInBlue, please review their privacy policy, which can be found at: https://www.sendinblue.com/legal/privacypolicy/
+
 **Keap**
 
 Keap is an email marketing provider operated by Infusion Software, Inc. To learn about the privacy practices of Keap, please review their privacy policy, which can be found at:
@@ -298,3 +299,5 @@ We reserve the right to change, amend or modify this Privacy Policy at any time.
 ## ALTERNATIVE FORMS
 
 You may print this Privacy Policy by using the "Print" function on your browser.
+
+<br>
