@@ -46,23 +46,6 @@ _wq.push({ id: "1i83mxhm2z", onReady: function(videoPlayer) {
 
 <script>
 
-    $(document).ready(function () {
-        $(window).scroll(function () {
-            if ($(window).scrollTop() >= ($(document).height() - $(window).height()) * 0.7) {
-                triggerLazyLoading();
-            }
-        });
-        if ($(window).height() > 1000) {
-            setTimeout(function () {
-                triggerLazyLoading();
-            }, 500);
-        }
-
-    });
-
-
-
-
     var prevScrollpos = window.pageYOffset;
     window.onscroll = function () {
         var currentScrollPos = window.pageYOffset;
@@ -73,37 +56,5 @@ _wq.push({ id: "1i83mxhm2z", onReady: function(videoPlayer) {
         }
         prevScrollpos = currentScrollPos;
     }
-
-
-
-
-</script>
-<script>
-    var seqFlag = 1;
-    function triggerLazyLoading() {
-        seqFlag++;
-        //alert('loading...'+ seqFlag);
-        var elem = document.querySelector('[sequence-id="' + seqFlag + '"]');
-        elem.classList.remove('hiddensec');
-        var fileName = 'partials/part' + seqFlag + '.php';
-        var containerId = 'sequence-id-' + seqFlag;
-        $.ajax({
-            url: fileName, success: function (result) {
-                $("#" + containerId).html(result);
-            }
-        });
-
-    }
 </script>
 
-
-
-
-<script type="text/javascript"
-    id="">(function (a) { var b = "nudgify"; a = a[b] || (a[b] = {}); a.uuid = "bec627c9-afff-4e5d-8f3c-09be4ad48e46"; a = document; b = a.createElement("script"); b.src = "https://pixel.nudgify.com/pixel.js"; b.async = 1; b.charset = "utf-8"; a.getElementsByTagName("head")[0].appendChild(b) })(window);</script>
-<script type="text/javascript" id="">var im_domain = "afm", im_project_id = 1;
-    (function (a, b) {
-        window._improvely = []; var d = a.getElementsByTagName("script")[0]; a = a.createElement("script"); a.type = "text/javascript"; a.src = "https://" + im_domain + ".iljmp.com/improvely.js"; a.async = !0; d.parentNode.insertBefore(a, d); "undefined" == typeof b.init && (b.init = function (c, e) { window._improvely.push(["init", c, e]) }, b.goal = function (c) { window._improvely.push(["goal", c]) }, b.conversion = function (c) { window._improvely.push(["conversion", c]) }, b.label = function (c) { window._improvely.push(["label", c]) }); window.improvely =
-            b; b.init(im_domain, im_project_id)
-    })(document, window.improvely || []);
-</script>
