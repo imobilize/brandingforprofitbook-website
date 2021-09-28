@@ -367,7 +367,6 @@ h6 {
 .top_right_sec .inner_white_bkg .top_right_banner_outer {
   width: 100%;
   position: relative;
-  height: 143px;
   margin-bottom: 20px;
 }
 .top_right_sec .inner_white_bkg .top_right_banner_outer img.top_right_banner {
@@ -517,7 +516,6 @@ h6 {
 .top_right_sec.big_cta .inner_white_bkg .top_right_banner_outer {
   width: 100%;
   position: relative;
-  height: 150px;
   margin-bottom: 0;
 }
 .top_right_sec.big_cta
@@ -2288,9 +2286,7 @@ span.bkg_yellow {
   font-size: 12px !important;
   padding: 5px 6px !important;
 }
-.chapter_sec .top_right_sec.big_cta .inner_white_bkg .top_right_banner_outer {
-  height: 135px;
-}
+
 .chapter_sec
   .top_right_sec.big_cta
   .inner_white_bkg
@@ -2322,9 +2318,12 @@ span.bkg_yellow {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70% !important;
+    width: 90% !important;
   }
   
+  .chapter_sec_new .text_area {
+    padding: 20px;
+  }
 }
 
 /*Small devices (landscape phones, 576px and up)*/
@@ -2349,7 +2348,7 @@ span.bkg_yellow {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 70% !important;
+    width: 90% !important;
   }
   
 }
@@ -3728,7 +3727,6 @@ Line Height CLASSES
   .sales_intro p.heading_txt {
     font-size: 15px;
     line-height: 25px;
-    display: none;
   }
   .fixed_footer {
     display: none;
@@ -4163,9 +4161,9 @@ Line Height CLASSES
 }
 
 /*Large devices (desktops, less than 1200px)*/
-@media (max-width: 1199.98px) {
+@media (max-width: 1199.98px) and (min-width: 849.99px) {
   .sales_intro h1 {
-    font-size: 27px;
+    font-size: 34px;
   }
   .sales_intro p.heading_txt br {
     display: none;
