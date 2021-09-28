@@ -28,3 +28,71 @@ HUGO_VERSION = "0.76.2"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
+
+
+[[redirects]]
+  from = "/virgin-by-design"
+  to = "https://betterbrandingbook.com/virgin-by-design"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/what-is-a-brand"
+  to = "https://betterbrandingbook.com/what-is-a-brand"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/branding-for-profit-book-introduction"
+  to = "https://betterbrandingbook.com/branding-for-profit-book-introduction"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/branding-for-profit-book-introduction"
+  to = "https://betterbrandingbook.com/branding-for-profit-book-introduction"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/tags/book"
+  to = "https://betterbrandingbook.com/tags/book"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/tags/branding"
+  to = "https://betterbrandingbook.com/tags/branding"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/tags/business"
+  to = "https://betterbrandingbook.com/tags/business"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/tags/entrepreneurs"
+  to = "https://betterbrandingbook.com/tags/entrepreneurs"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/tags/startups"
+  to = "https://betterbrandingbook.com/tags/startups"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/tags/successful"
+  to = "https://betterbrandingbook.com/tags/successful"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
+[[redirects]]
+  from = "/tags/virgin"
+  to = "https://betterbrandingbook.com/tags/virgin/"
+  status = 301
+  force = true # COMMENT: ensure that we always redirect
+
