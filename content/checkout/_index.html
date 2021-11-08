@@ -179,95 +179,106 @@ keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Pro
     }
 
     .breadcrumb {
-    padding: 0px;
-	background: #D4D4D4;
-	list-style: none; 
-	overflow: hidden;
-    border-radius: 0%;
-}
-.breadcrumb>li+li:before {
-	padding: 0;
-}
-.breadcrumb li { 
-    flex: 0 0 33%;
-    max-width: 33%;
-    line-height: 1.15;
-	/* float: left;  */
-}
-.breadcrumb li.active a {
-	background: brown;                   /* fallback color */
-	background: #ffc107 ; 
-}
-.breadcrumb li.completed a {
-	background: brown;                   /* fallback color */
-	background: hsla(153, 57%, 51%, 1); 
-}
-.breadcrumb li.active a:after {
-	border-left: 30px solid #ffc107 ;
-}
-.breadcrumb li.completed a:after {
-	border-left: 30px solid hsla(153, 57%, 51%, 1);
-} 
+        padding: 0px;
+        background: #D4D4D4;
+        list-style: none;
+        overflow: hidden;
+        border-radius: 0%;
+    }
 
-.breadcrumb li a {
-	color: white;
-    font-weight: bold;
-	text-decoration: none; 
-	padding: 10px 0 10px 45px;
-	position: relative; 
-	display: block;
-	/* float: left; */
-}
-.breadcrumb li a:after { 
-	content: " "; 
-	display: block; 
-	width: 0; 
-	height: 0;
-    /* Go big on the size, and let overflow hide */
-	border-top: 50px solid transparent;           
-	border-bottom: 50px solid transparent;
-	border-left: 30px solid hsla(0, 0%, 83%, 1);
-	position: absolute;
-	top: 50%;
-	margin-top: -50px; 
-	left: 100%;
-	z-index: 2; 
-}	
-.breadcrumb li a:before { 
-	content: " "; 
-	display: block; 
-	width: 0; 
-	height: 0;
-      /* Go big on the size, and let overflow hide */
-	border-top: 50px solid transparent;          
-	border-bottom: 50px solid transparent;
-	border-left: 30px solid white;
-	position: absolute;
-	top: 50%;
-	margin-top: -50px; 
-	margin-left: 1px;
-	left: 100%;
-	z-index: 1; 
-}	
-.breadcrumb li:first-child a {
-	padding-left: 15px;
-    padding-right: 50px;
-}
-.breadcrumb li:last-child a {
-    padding-right: 15px;
-}
+    .breadcrumb>li+li:before {
+        padding: 0;
+    }
 
+    .breadcrumb li {
+        flex: 0 0 33%;
+        max-width: 33%;
+        line-height: 1.15;
+        /* float: left;  */
+    }
+
+    .breadcrumb li.active a {
+        background: brown;
+        /* fallback color */
+        background: #ffc107;
+    }
+
+    .breadcrumb li.completed a {
+        background: brown;
+        /* fallback color */
+        background: hsla(153, 57%, 51%, 1);
+    }
+
+    .breadcrumb li.active a:after {
+        border-left: 30px solid #ffc107;
+    }
+
+    .breadcrumb li.completed a:after {
+        border-left: 30px solid hsla(153, 57%, 51%, 1);
+    }
+
+    .breadcrumb li a {
+        color: white;
+        font-weight: bold;
+        text-decoration: none;
+        padding: 10px 0 10px 45px;
+        position: relative;
+        display: block;
+        /* float: left; */
+    }
+
+    .breadcrumb li a:after {
+        content: " ";
+        display: block;
+        width: 0;
+        height: 0;
+        /* Go big on the size, and let overflow hide */
+        border-top: 50px solid transparent;
+        border-bottom: 50px solid transparent;
+        border-left: 30px solid hsla(0, 0%, 83%, 1);
+        position: absolute;
+        top: 50%;
+        margin-top: -50px;
+        left: 100%;
+        z-index: 2;
+    }
+
+    .breadcrumb li a:before {
+        content: " ";
+        display: block;
+        width: 0;
+        height: 0;
+        /* Go big on the size, and let overflow hide */
+        border-top: 50px solid transparent;
+        border-bottom: 50px solid transparent;
+        border-left: 30px solid white;
+        position: absolute;
+        top: 50%;
+        margin-top: -50px;
+        margin-left: 1px;
+        left: 100%;
+        z-index: 1;
+    }
+
+    .breadcrumb li:first-child a {
+        padding-left: 15px;
+        padding-right: 50px;
+    }
+
+    .breadcrumb li:last-child a {
+        padding-right: 15px;
+    }
 </style>
 <div class="container">
-        <div class="row">
-            <div class="col-md-12">
+    <div class="row">
+        <div class="col-md-12">
             <ul class="breadcrumb">
                 <li class="completed"><a href="javascript:void(0);">1. Secure Checkout</a></li>
                 <li class="active"><a href="javascript:void(0);">2. Order Confirmation</a></li>
                 <li class=""><a href="javascript:void(0);">3. Instant Access</a></li>
             </ul>
-            </div>
         </div>
+    </div>
 </div>
 
 <div class="container">
@@ -351,20 +362,27 @@ keywords: "Brand, Branding, Branding Book, Marketing, Business, Branding For Pro
 </div>
 
 <div class="container">
-    <div class="row">
-        <div class="col">
-            <div class="footer">
+    <div class="footer">
+
+        <div class="row pb-3">
+            <div class="col">
+                <p> <strong>What happens when I purchase?:</strong><br>
+                    Once your order is submitted you will receive an email with login instructions for the Software
+                    Startup Academy portal. This is where we host all our content and training material.
+                </p>
+            </div>
+        </div>
+        <div class="row  pb-3">
+            <div class="col">
                 <p> <strong>Terms of sale:</strong><br>
                     Your purchase will appear on your statement under the name “iMobilize”.<br>
                     iMobilize will allow for the return or replacement of your ebook within 30 days from the date
                     of purchase. For more details see our return policy.<br>
-                    The geographic location of your computer has been determined and recorded. All attempts at fraud
-                    will be prosecuted.<br>
                     Information submitted in conjunction with this order is handled within the constraints of our
                     privacy policy.
-
                 </p>
             </div>
         </div>
     </div>
+
 </div>
