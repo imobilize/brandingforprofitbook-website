@@ -1,0 +1,91 @@
+{{ define "main" }}
+
+
+<!--&&&&&&&&&&&&&& top-Header & Banner & intro text   &&&&&&&&&&&&&&&&&-->
+<div class="sales_top_bkg">
+
+  <div class="sales_intro">
+    <div class="container">
+      <!--********TEXT INTRO*********-->
+      <div class="row text-center">
+        <div class="col-lg-12">
+          <div class="free_course">
+            <p>
+            ATTENTION: For Anyone Looking for a better way to start a profitable business...
+            </p>
+          </div>
+        </div>
+        <div class="col-lg-12">
+          <h1>"How To Create An Effective Brand That<span> Attracts More Customers</span> Automatically"</h1>
+
+            <p class="heading_txt pt-2">Using A Simple Repeatable Process That Anyone Can Copy</p>
+            <p class="heading_txt"><u>Create An Instantly Reputable
+              Company</u> Without Spending Loads Of Money On Designers Or A Branding Agency</p>
+        </div>
+      </div>
+
+      <!--********VIDEO & RIGHT SIDE BAR*********-->
+      <div class="row">
+        <!--=======LEFT===========-->
+        <div class="col-lg-8 pr45">
+          <div class="video_section">
+
+
+
+            <div id="vi-video-1-container" class="embed-responsive">
+              <script src="https://fast.wistia.com/embed/medias/1i83mxhm2z.jsonp" async></script>
+              <script src="https://fast.wistia.com/assets/external/E-v1.js" async></script>
+              <div class="wistia_responsive_padding" style="padding:56.25% 0 0 0;position:relative;">
+                <div class="wistia_responsive_wrapper" style="height:100%;left:0;position:absolute;top:0;width:100%;">
+                  <div class="wistia_embed wistia_async_1i83mxhm2z videoFoam=true" style="height:100%;position:relative;width:100%">
+                    <div class="wistia_swatch"
+                      style="height:100%;left:0;opacity:0;overflow:hidden;position:absolute;top:0;transition:opacity 200ms;width:100%;">
+                      <img src="https://fast.wistia.com/embed/medias/1i83mxhm2z/swatch"
+                        style="filter:blur(5px);height:100%;object-fit:contain;width:100%;" alt="" aria-hidden="true"
+                        onload="this.parentNode.style.opacity=1;" /></div>
+                  </div>
+                </div>
+              </div>
+
+              <a href="javascript:void(0);" id="js-video-control" class="video_play_button video_play_button2"></a>
+              <a href="javascript:void(0);" id="js-video-control2" class="audio_play_button"></a>
+
+            </div>
+
+
+          </div>
+
+          <h2>What Is <span>Branding For Profit</span>?</h2>
+
+            <p>Branding For Profit is <u><b>a brand new counterintuitive approach</b></u> to creating a highly profitable brand. When starting a business, most people make the mistake of considering a brand to be simply the brand elements i.e the name and the logo. They create these elements, do a launch, and then wonder they struggle to make sales.</p>
+            <br />
+            <p>The Branding For Profit approach is different. <mark>It goes beyond creating brand elements.</mark> Instead, it leverages powerful techniques based on human psychology <u><b>scientifically proven to convert prospects into buyers</b></u>. This psychological mind control remains mysteriously unknown to the general public. They are like magic tricks that have a potent effect on the unsuspecting customer. Yet big companies have been knowingly using these spellbinding tactics for many years.</p>
+            <br />
+            <p>But rather than having to spend years learning the science, <u>Branding For Profit gives you an easy-to-follow step-by-step guide</u>. In just a few short hours, you will have everything you need to <b>create a brand that attracts customers automatically and on repeat</b>. You will be able to take advantage of the same tactics used by successful startup companies that turned their brands into multi-million dollar profit-generating machines.</p>
+            <br />
+        </div>
+
+        <!--======= RIGHT SIDE SIGNUP FORM ===========-->
+
+        {{- partial "signup-form.html" . -}}
+
+
+      </div>
+
+    </div>
+  </div>
+
+
+</div>
+
+<!--&&&&&&&&&&&&&& STEP BY STEP VIDEO SECTION  &&&&&&&&&&&&&&&&&-->
+
+{{- partial "testimonials-section.html" . -}}
+
+{{- partial "bonus-section.html" . -}}
+
+
+{{- partial "footer-scripts.html" . -}}
+
+
+{{ end }}
