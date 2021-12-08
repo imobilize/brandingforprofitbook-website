@@ -1,5 +1,5 @@
 ---
-title: "Branding For Profit Book Offer"
+title: "Offer"
 layout: simple
 date: 2021-09-23T15:28:43+06:00
 draft: false
