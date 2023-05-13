@@ -12,7 +12,7 @@ paginate = 6
 enableRobotsTXT = true
 
 [markup]
-  defaultMarkdownHandler = "blackfriday"
+  defaultMarkdownHandler = "goldmark"
   [markup.asciidocExt]
     backend = "html5"
     extensions = []
