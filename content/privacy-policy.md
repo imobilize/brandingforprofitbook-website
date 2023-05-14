@@ -284,7 +284,7 @@ This website is not directed towards or designed for use by children under the a
 
 If you have any questions or complaints related to this Privacy Policy, or would like to exercise any of your rights, please contact us using the information below.
 
-By email: **admin@imobilize.co.uk**
+By email: **support@imobilize.co.uk**
 
 <br>
 

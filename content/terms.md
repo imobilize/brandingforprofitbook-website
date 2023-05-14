@@ -226,6 +226,6 @@ If any action at law or in equity is necessary to enforce or interpret the terms
 
 If you have any questions, please contact us using the information below.
 
-By email: **admin@imobilize.co.uk**
+By email: **support@imobilize.co.uk**
 
 <br>
