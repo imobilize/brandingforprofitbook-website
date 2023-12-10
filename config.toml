@@ -3,13 +3,19 @@ baseURL = "https://brandingforprofitbook.com"
 relativeURLs = true
 languageCode = "en-us"
 title = "Branding For Profit Book"
-
 theme = "Influencer-hugo"
 summaryLength = "10"
 paginate = 6
+# Meta data
+description = "Branding For Profit Book, How Companies Create Extraordinary Gains From Their Brands - And How You Can Too"
+author = "Andre Barrett"
+# copyrighta
+copyright = "Copyright &copy; 2020 [Andre Barrett](https://www.andrebarrett.com) All Rights Reserved"
 
 # Build robots.txt file
 enableRobotsTXT = true
+logo = ""
+
 
 [markup]
   defaultMarkdownHandler = "goldmark"
@@ -74,37 +80,6 @@ enableRobotsTXT = true
     ordered = false
     startLevel = 2
 
-
-############################# Plugins ##############################
-[params.plugins]
-
-  # CSS Plugins
-  [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
-  [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
-  [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
-  [[params.plugins.css]]
-  URL = "plugins/magnific-popup/magnific-popup.css"
-  [[params.plugins.css]]
-  URL = "plugins/bolt-free/css/main.css"
-
-  
-  # JS Plugins
-  [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/magnific-popup/magnific-popup.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bolt-free/js/jquery.countdown.min.js"
-  [[params.plugins.js]]
-  URL = "plugins/bolt-free/js/main.js"
-
 ############################## navigation ###############################
 [menu]
     
@@ -141,15 +116,38 @@ enableRobotsTXT = true
 
 #################### default parameters ################################
 [params]
-logo = ""
-home = "Home"
-# Meta data
-description = "Branding For Profit Book, How Companies Create Extraordinary Gains From Their Brands - And How You Can Too"
-author = "Andre Barrett"
+
 # Google Analitycs
-googleAnalitycsID = "" # Your ID
-# copyrighta
-copyright = "Copyright &copy; 2020 [Andre Barrett](https://www.andrebarrett.com) All Rights Reserved"
+googleAnalitycsID = "GTM-5QLWD2RH" # Your ID
+############################# Plugins ##############################
+  [params.plugins]
+
+  # CSS Plugins
+  [[params.plugins.css]]
+  URL = "plugins/bootstrap/bootstrap.min.css"
+  [[params.plugins.css]]
+  URL = "plugins/slick/slick.css"
+  [[params.plugins.css]]
+  URL = "plugins/themify-icons/themify-icons.css"
+  [[params.plugins.css]]
+  URL = "plugins/magnific-popup/magnific-popup.css"
+  [[params.plugins.css]]
+  URL = "plugins/bolt-free/css/main.css"
+
+  
+  # JS Plugins
+  [[params.plugins.js]]
+  URL = "plugins/jQuery/jquery.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bootstrap/bootstrap.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/slick/slick.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/magnific-popup/magnific-popup.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bolt-free/js/jquery.countdown.min.js"
+  [[params.plugins.js]]
+  URL = "plugins/bolt-free/js/main.js"
 
   # Preloader
   [params.preloader]

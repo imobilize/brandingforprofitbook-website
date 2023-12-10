@@ -1,13 +1,17 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-    {{- partial "head.html" . -}}
-    <body>
-<!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MBVC76D"
-    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+{{- partial "head.html" . -}}
+
+<body>
+    {{ with .Site.Params.GoogleAnalitycsID }}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ . }}" height="0" width="0"
+            style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-        {{- partial "preloader.html" . -}}
-        {{- partial "header.html" . -}}
-        {{- block "main" . }}{{- end }}
-    </body>
+    {{ end }}
+    {{- partial "preloader.html" . -}}
+    {{- partial "header.html" . -}}
+    {{- block "main" . }}{{- end }}
+</body>
+
 </html>

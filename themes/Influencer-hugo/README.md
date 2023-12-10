@@ -1,74 +1,94 @@
-<div align="center">
-<h1><a href="https://gethugothemes.com/">Influencer Hugo</a></h1>
-<img src="https://user-images.githubusercontent.com/37659754/69491097-b022d480-0eba-11ea-9a99-35c0a0e30b5c.gif" alt="screenshot" width="100%">
-</div>
+# Branding For Profit Book
+Branding For Profit is the website of [brandingforprofitbook.com](https://brandingforprofitbook.com)
 
-**The images are only for demonstration purpose, Please don't use those images.**
+Many people think that the brands we know and love have succeeded by delivering high-quality service and great products. Although this may be true, other powerful factors are at play and are the real driving force behind their success. EVERY SUCCESSFUL, WELL-KNOWN BRAND IS USING THESE MIND-BLOWING TACTICS. 
 
-## Table of Contents
+These factors remain mysteriously unknown to the general public. They are like secret, magic tricks that have a potent effect on the unsuspecting customer. Yet big companies have been knowingly using these spellbinding tactics for many years. Employing these methods has allowed them to gain a large market share and command extraordinary profits. All while their competition fights over the scraps. If you want to create a brand that can thrive in this highly competitive market, it is time to arm yourself with these same weapons of influence. READ THIS BOOK NOW TO START GAINING YOUR EDGE!
 
-- [Demo](#demo)
-- [Installation](#installation)
-- [Main Features](#main-features)
-- [Reporting Issues](#reporting-issues)
-- [Technical Support or Questions](#technical-support-or-questions-(paid))
-- [More Hugo Themes](https://gethugothemes.com/shop/)
+By reading this book you will understand the basics required to create a stand out brand. It will show you how to leverage the tactics of other well-known brands. You will see example strategies used by big brands to dominate their industry. Learn to use the same techniques to captivate and influence your audience. It gives you a step by step guide to create a successful brand from scratch. On on a tight budget? These steps are inexpensive yet powerful.
 
-## Demo
+The book covers:
 
-[Live Demo](http://demo.themefisher.com/influencer-hugo/).
+BRAND FUNDAMENTALS
+- What exactly is a brand
+- Why is a brand important
+- What makes some brands better than others
+- What colors a brand should use
+- Step by step guide to brand development
+- The psychology behind effective branding
 
-## Installation
+MARKETING TECHNIQUES
+- Why marketing is so crucial for a brand
+- Marketing used by the best brands
+- Marketing stratagies for smaller brands
+- How to use marketing to grow brand awareness
+- Great marketing for strong brand reputation
+- How to leverage social media for branding
+- Marketing that influences customers to buy
 
-Navigate to your themes folder in your Hugo site and use the following commands:
+BRANDING HOW-TO
+- How to build a brand from scratch
+- How to avoid common branding mistakes
+- How to generate ideas for a brand name
+- How to create your logo
+- Tools to design your brand
+- How to use story to enhance your brand
+- How to grow your brand
+- How to protect your brand
+- How to create your brand on a budget
 
-**Note : You must use `hugo-extended` version to compile SCSS**
+"It’s simply the best guide to branding for early-stage entrepreneurs." - Lisa Duffin
 
-```
-$ mkdir themes
-$ cd themes
-$ git clone https://github.com/themefisher/Influencer-hugo.git
-```
 
-## Main features
 
-- Bootstrap 4 Powered
-- Google Analytics
-- SEO Friendly
-- Multiple Author
-- Ecommerce Ready
-- Responsive Ready
+<!-- GETTING STARTED -->
+## Getting Started
 
-## Reporting Issues
+You will first need to install the tools used to build the project namely
+* Hugo - the static site generator
+* NPM - the tool used to manage node module dependencies
 
-We use GitHub Issues as the official bug tracker for the Navigator Template. Please Search [existing issues](https://github.com/themefisher/influencer-hugo/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/influencer-hugo/issues)
+### Prerequisites
 
-## Technical Support or Questions (Paid)
+To install Hugo and NPM, on a mac you can use brew
+* npm
+  ```sh
+  brew install node
+  ```
+* Hugo 
+  ```sh
+  brew install hugo
+  ```
 
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.  
+**Clone Repository and open in VSCode**  
+`git clone git@github.com:imobilize/brandingforprofitbook-website`
 
-## Donate Us (Author) 
-This project needs you! If you would like to support this project's further development, the creator of this project or the continuous maintenance of this project, feel free to donate. Your donation is highly appreciated . Thank you!
+##### Install with NPM 
+`npm install`
+##### Install with Yarn
+`yarn`
 
-* **[Donate $10](https://www.paypal.me/themefisher/10USD)**: Thank's for creating this project, here's a tea (or some juice) for you!
-* **[Donate $20](https://www.paypal.me/themefisher/20USD)**: Wow, I am stunned. Let me take you to the movies!
-* **[Donate $30](https://www.paypal.me/themefisher/30USD)**: I really appreciate your work, let's grab some lunch!
-* **[Donate $40](https://www.paypal.me/themefisher/40USD)**: That's some awesome stuff you did right there, dinner is on me!
-* **[Donate $50](https://www.paypal.me/themefisher/50USD)**: I really really want to support this project, great job!
-* **[Donate $100](https://www.paypal.me/themefisher/100USD)**: You are the man! This project saved me hours (if not days) of struggle and hard work, simply awesome!
-* **[Donate $1500](https://www.paypal.me/themefisher/1500USD)**: Go buddy, buy Macbook Pro for yourself!
+**To start developing:**
+##### Develop with NPM 
+`npm run start`
+##### Develop with Yarn
+`yarn start`
 
-Of course, you can also choose what you want to donate, all donations are awesome !
-## Hire Us
-We are available for Hiring of your next HUGO project. Drop Us a mail [mehedi@themefisher.com](mailto:mehedi@themefisher.com)
+**To generate the site HTML:**
+##### Build with NPM 
+`npm run build`
+##### Build with Yarn
+`yarn build`
 
-## Premium Themes
+**npm run start** will run two commands parallel:  
+`npx tailwindcss -i ./assets/css/main.css -o ./assets/css/style.css --watch`
 
-| [![Mega-Bundle-HUGO](https://gethugothemes.com/wp-content/uploads/edd/2019/09/Mega-Bundle-HUGO.png)](https://themefisher.com/products/hugo-mega-bundle/) | [![Adrian](https://gethugothemes.com/wp-content/uploads/edd/2019/12/adrian-ecommerce-template.jpg)](https://gethugothemes.com/products/adrian/) | [![Hargo](https://gethugothemes.com/wp-content/uploads/edd/2019/10/Hargo.png)](https://gethugothemes.com/products/hargo/) |
-|:---:|:---:|:---:|
-| **Hugo Mega Bundle**  | **Adrian**  | **Hargo** |
-| [![Agico](https://gethugothemes.com/wp-content/uploads/2019/06/Hugo-theme-agico.jpg)](https://gethugothemes.com/products/agico-hugo-theme/) | [![Biztrox](https://gethugothemes.com/wp-content/uploads/2019/12/Biztrox.png)](https://gethugothemes.com/products/hugo-business-theme/) | [![Bexer](https://gethugothemes.com/wp-content/uploads/2019/06/hugo-theme-bexer.jpg)](https://gethugothemes.com/products/bexer-hugo-theme/) |
-| **Agico** | **Biztrox** | **Bexer** |
-| [![Wishfund](https://gethugothemes.com/wp-content/uploads/edd/2019/10/wishfund-charity-theme.jpg)](https://gethugothemes.com/products/wishfund-hugo/) | [![Enov](https://gethugothemes.com/wp-content/uploads/2019/09/enov-business-template.jpg)](https://gethugothemes.com/products/enov-hugo/) | [![all](https://gethugothemes.com/wp-content/uploads/2019/12/get-more-hugo-themes.png)](https://gethugothemes.com/shop/) |
-| **Wishfund** | **Enov** | **More Hugo Themes** |
+Has paginated Categories and Tags. Markdown files will automatically convert images put into `/assets` folder to .webp images. 
+
+## Image shortcodes for webp as well.
+{{< imgh src="img-name.jpg" alt="Place alt text here." >}}
+
+## Credits
+4044ever - Original Theme
+https://github.com/4044ever/Hugo-Tailwind-3.0.git
+
